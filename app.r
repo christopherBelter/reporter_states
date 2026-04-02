@@ -26,8 +26,9 @@ branch_theme_data <- read.csv("data/branch_theme_data.csv", stringsAsFactors = F
 branch_theme_data$short_label <- factor(branch_theme_data$short_label, levels = c("Developmental Biology", "Reproductive Health", "Pregnancy", "Pediatrics", "Pharmacology", "Rehabilitation", "Unclassified"))
 branch_theme_data$major_topic <- factor(branch_theme_data$major_topic, levels = sort(unique(branch_theme_data$major_topic), decreasing = TRUE))
 ## save as .csv file?
-us_base <- rnaturalearth::ne_states("united states of america", returnclass = "sf")
+#us_base <- rnaturalearth::ne_states("united states of america", returnclass = "sf")
 #us_base <- readRDS("data/us_base_sf_data.rds")
+us_base <- sf::st_read("data/us_base_data.shp")
 
 # create the ui
 ui <- page_sidebar(

@@ -3051,42 +3051,6 @@
         "RemoteSha": "2.30"
       }
     },
-    "rnaturalearth": {
-      "Source": "CRAN",
-      "Repository": "https://cran.rstudio.com",
-      "description": {
-        "Package": "rnaturalearth",
-        "Title": "World Map Data from Natural Earth",
-        "Version": "1.2.0",
-        "Authors@R": "c(\n  person(\n    family = \"Massicotte\",\n    given = \"Philippe\",\n    email = \"pmassicotte@hotmail.com\",\n    role = c(\"aut\", \"cre\"),\n    comment = c(ORCID = \"0000-0002-5919-4116\")\n  ),\n  person(\n    family = \"South\",\n    given = \"Andy\",\n    email = \"southandy@gmail.com\",\n    role = c(\"aut\")\n  ),\n  person(\n    family = \"Hufkens\",\n    given = \"Koen\",\n    email = \"koen.hufkens@gmail.com\",\n    role = c(\"ctb\"),\n    comment = c(ORCID = \"0000-0002-5070-8109\")\n  ))",
-        "Description": "Facilitates mapping by making natural earth map data from <https://www.naturalearthdata.com/> more easily available to R users.",
-        "License": "MIT + file LICENSE",
-        "LazyData": "true",
-        "LazyDataCompression": "xz",
-        "Encoding": "UTF-8",
-        "URL": "https://docs.ropensci.org/rnaturalearth/,\nhttps://github.com/ropensci/rnaturalearth,\nhttps://docs.ropensci.org/rnaturalearthhires/",
-        "BugReports": "https://github.com/ropensci/rnaturalearth/issues",
-        "Additional_repositories": "https://ropensci.r-universe.dev",
-        "Depends": "R (>= 3.1.1)",
-        "Imports": "cli, httr (>= 1.1.0), jsonlite, sf (>= 0.3-4), terra, utils\n(>= 3.2.3)",
-        "Suggests": "pak, dplyr, ggplot2, ggrepel, knitr (>= 1.12.3), lifecycle\n(>= 1.0.3), pbapply, purrr, rlang, rmarkdown, rnaturalearthdata\n(>= 1.0.0), rnaturalearthhires (>= 1.0.0), testthat (>= 0.9.1),\ntmap",
-        "Config/Needs/website": "ropensci/rnaturalearthhires",
-        "VignetteBuilder": "knitr",
-        "RoxygenNote": "7.3.3",
-        "NeedsCompilation": "no",
-        "Packaged": "2026-01-19 14:12:33 UTC; filoche",
-        "Author": "Philippe Massicotte [aut, cre] (ORCID:\n    <https://orcid.org/0000-0002-5919-4116>),\n  Andy South [aut],\n  Koen Hufkens [ctb] (ORCID: <https://orcid.org/0000-0002-5070-8109>)",
-        "Maintainer": "Philippe Massicotte <pmassicotte@hotmail.com>",
-        "Repository": "CRAN",
-        "Date/Publication": "2026-01-19 17:20:02 UTC",
-        "Built": "R 4.5.2; ; 2026-01-21 00:51:41 UTC; windows",
-        "RemoteType": "standard",
-        "RemotePkgRef": "rnaturalearth",
-        "RemoteRef": "rnaturalearth",
-        "RemoteRepos": "https://cran.rstudio.com",
-        "RemoteSha": "1.2.0"
-      }
-    },
     "rsconnect": {
       "Source": "CRAN",
       "Repository": "https://cran.rstudio.com",
@@ -3601,43 +3565,6 @@
         "RemoteRef": "systemfonts",
         "RemoteRepos": "https://cran.rstudio.com",
         "RemoteSha": "1.3.1"
-      }
-    },
-    "terra": {
-      "Source": "CRAN",
-      "Repository": "https://cran.rstudio.com",
-      "description": {
-        "Package": "terra",
-        "Type": "Package",
-        "Title": "Spatial Data Analysis",
-        "Version": "1.8-93",
-        "Date": "2026-01-11",
-        "Depends": "R (>= 3.5.0), methods",
-        "Suggests": "parallel, tinytest, ncdf4, sf (>= 0.9-8), deldir, XML,\nleaflet (>= 2.2.1), htmlwidgets",
-        "LinkingTo": "Rcpp",
-        "Imports": "Rcpp (>= 1.0-10)",
-        "SystemRequirements": "C++17, GDAL (>= 2.2.3), GEOS (>= 3.4.0), PROJ (>=\n4.9.3), TBB, sqlite3",
-        "Encoding": "UTF-8",
-        "Language": "en-US",
-        "Maintainer": "Robert J. Hijmans <r.hijmans@gmail.com>",
-        "Description": "Methods for spatial data analysis with vector (points, lines, polygons) and raster (grid) data. Methods for vector data include geometric operations such as intersect and buffer. Raster methods include local, focal, global, zonal and geometric operations. The predict and interpolate methods facilitate the use of regression type (interpolation, machine learning) models for spatial prediction, including with satellite remote sensing data. Processing of very large files is supported. See the manual and tutorials on <https://rspatial.org/> to get started.",
-        "License": "GPL (>= 3)",
-        "URL": "https://rspatial.org/, https://rspatial.github.io/terra/",
-        "BugReports": "https://github.com/rspatial/terra/issues",
-        "LazyLoad": "yes",
-        "Authors@R": "c(\n\tperson(\"Robert J.\", \"Hijmans\", role=c(\"cre\", \"aut\"),  \n\t\t\temail=\"r.hijmans@gmail.com\", comment=c(ORCID=\"0000-0001-5872-2872\")),\t\t\t\n    person(\"Márcia\", \"Barbosa\", role=\"ctb\", comment=c(ORCID=\"0000-0001-8972-7713\")),\n    person(\"Roger\", \"Bivand\", role=\"ctb\", comment=c(ORCID=\"0000-0003-2392-6140\")),\n    person(\"Andrew\", \"Brown\", role=\"ctb\", comment=c(ORCID=\"0000-0002-4565-533X\")),\n    person(\"Michael\", \"Chirico\", role=\"ctb\", comment=c(ORCID=\"0000-0003-0787-087X\")),\n    person(\"Emanuele\", \"Cordano\", role=\"ctb\",comment=c(ORCID=\"0000-0002-3508-5898\")),\n    person(\"Krzysztof\", \"Dyba\", role=\"ctb\", comment=c(ORCID=\"0000-0002-8614-3816\")),\n    person(\"Edzer\", \"Pebesma\", role=\"ctb\", comment=c(ORCID=\"0000-0001-8049-7069\")),\n    person(\"Barry\", \"Rowlingson\", role=\"ctb\", comment=c(ORCID=\"0000-0002-8586-6625\")),\n    person(\"Michael D.\", \"Sumner\", role=\"ctb\", comment=c(ORCID=\"0000-0002-2471-7511\")))",
-        "NeedsCompilation": "yes",
-        "Packaged": "2026-01-11 23:50:25 UTC; rhijm",
-        "Author": "Robert J. Hijmans [cre, aut] (ORCID:\n    <https://orcid.org/0000-0001-5872-2872>),\n  Márcia Barbosa [ctb] (ORCID: <https://orcid.org/0000-0001-8972-7713>),\n  Roger Bivand [ctb] (ORCID: <https://orcid.org/0000-0003-2392-6140>),\n  Andrew Brown [ctb] (ORCID: <https://orcid.org/0000-0002-4565-533X>),\n  Michael Chirico [ctb] (ORCID: <https://orcid.org/0000-0003-0787-087X>),\n  Emanuele Cordano [ctb] (ORCID: <https://orcid.org/0000-0002-3508-5898>),\n  Krzysztof Dyba [ctb] (ORCID: <https://orcid.org/0000-0002-8614-3816>),\n  Edzer Pebesma [ctb] (ORCID: <https://orcid.org/0000-0001-8049-7069>),\n  Barry Rowlingson [ctb] (ORCID: <https://orcid.org/0000-0002-8586-6625>),\n  Michael D. Sumner [ctb] (ORCID:\n    <https://orcid.org/0000-0002-2471-7511>)",
-        "Repository": "CRAN",
-        "Date/Publication": "2026-01-12 06:10:03 UTC",
-        "Built": "R 4.5.2; x86_64-w64-mingw32; 2026-01-21 03:02:02 UTC; windows",
-        "Archs": "x64",
-        "RemoteType": "standard",
-        "RemotePkgRef": "terra",
-        "RemoteRef": "terra",
-        "RemoteRepos": "https://cran.rstudio.com",
-        "RemoteSha": "1.8-93"
       }
     },
     "textshaping": {
@@ -4338,7 +4265,7 @@
   },
   "files": {
     "app.r": {
-      "checksum": "7ac6c750e2c0de656d6acd8896c80fc9"
+      "checksum": "7bd21a33f86ff35a2a5276d818612e32"
     },
     "data/awardType_data.csv": {
       "checksum": "3ed3eadd29ff7db9d45dd058cf6c5110"
@@ -4370,11 +4297,23 @@
     "data/theme_data.csv": {
       "checksum": "14bc27f03c216a2107712ee670e2a485"
     },
+    "data/us_base_data.dbf": {
+      "checksum": "df469fc6e213ab4ff78c96156b9e845c"
+    },
+    "data/us_base_data.prj": {
+      "checksum": "c742bee3d4edfc2948a2ad08de1790a5"
+    },
+    "data/us_base_data.shp": {
+      "checksum": "294e6482de28dfe02e91c6ee060243d2"
+    },
+    "data/us_base_data.shx": {
+      "checksum": "786e424dcd22a3fdccdd1a8de95c3df2"
+    },
     "data/us_base_sf_data.rds": {
       "checksum": "33f55626a4e932a44b9b6f775dd4b3da"
     },
     "reporter_processing.r": {
-      "checksum": "6488cbd50510c46872c43708435b544d"
+      "checksum": "b819397c26ad65d1403407e8822d3764"
     }
   },
   "users": null

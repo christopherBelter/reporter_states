@@ -242,6 +242,8 @@ write.csv(org_sum, file = "shiny dashboards/hd_reporter_states/data/org_data.csv
 
 #us_base <- rnaturalearth::ne_states("united states of america", returnclass = "sf")
 #saveRDS(us_base, file = "projects/dashboard reporter shiny/us_base_sf_data.rds")
+#sf::write_sf(us_base, "shiny dashboards/hd_reporter_states/data/us_base_data.shp")
+
 
 tagged_data <- grants %>% 
   select(appl_id, core_project_num, project_num, funding_mechanism, fiscal_year, project_title, org_name_clean, organization_org_state, all_themes, all_crosscuts)
