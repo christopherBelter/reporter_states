@@ -10,6 +10,34 @@
     "has_parameters": false
   },
   "packages": {
+    "BH": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.com",
+      "description": {
+        "Package": "BH",
+        "Type": "Package",
+        "Title": "Boost C++ Header Files",
+        "Version": "1.90.0-1",
+        "Date": "2025-12-13",
+        "Authors@R": "c(person(\"Dirk\", \"Eddelbuettel\", role = c(\"aut\", \"cre\"), email = \"edd@debian.org\",\n                    comment = c(ORCID = \"0000-0001-6419-907X\")),\n             person(\"John W.\", \"Emerson\", role = \"aut\"), \n             person(\"Michael J.\", \"Kane\", role = \"aut\", \n                    comment = c(ORCID = \"0000-0003-1899-6662\")))",
+        "Description": "Boost provides free peer-reviewed portable C++ source \n libraries.  A large part of Boost is provided as C++ template code\n which is resolved entirely at compile-time without linking.  This \n package aims to provide the most useful subset of Boost libraries \n for template use among CRAN packages. By placing these libraries in \n this package, we offer a more efficient distribution system for CRAN \n as replication of this code in the sources of other packages is \n avoided. As of release 1.84.0-0, the following Boost libraries are\n included: 'accumulators' 'algorithm' 'align' 'any' 'atomic' 'beast'\n 'bimap' 'bind' 'circular_buffer' 'compute' 'concept' 'config'\n 'container' 'date_time' 'detail' 'dynamic_bitset' 'exception'\n 'flyweight' 'foreach' 'functional' 'fusion' 'geometry' 'graph' 'heap'\n 'icl' 'integer' 'interprocess' 'intrusive' 'io' 'iostreams'\n 'iterator' 'lambda2' 'math' 'move' 'mp11' 'mpl' 'multiprecision'\n 'numeric' 'pending' 'phoenix' 'polygon' 'preprocessor' 'process'\n 'propery_tree' 'qvm' 'random' 'range' 'scope_exit' 'smart_ptr' 'sort'\n 'spirit' 'tuple' 'type_traits' 'typeof' 'unordered' 'url' 'utility'\n 'uuid'.",
+        "License": "BSL-1.0",
+        "URL": "https://github.com/eddelbuettel/bh,\nhttps://dirk.eddelbuettel.com/code/bh.html",
+        "BugReports": "https://github.com/eddelbuettel/bh/issues",
+        "NeedsCompilation": "no",
+        "Packaged": "2025-12-13 23:51:39 UTC; edd",
+        "Author": "Dirk Eddelbuettel [aut, cre] (ORCID:\n    <https://orcid.org/0000-0001-6419-907X>),\n  John W. Emerson [aut],\n  Michael J. Kane [aut] (ORCID: <https://orcid.org/0000-0003-1899-6662>)",
+        "Maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+        "Repository": "CRAN",
+        "Date/Publication": "2025-12-14 10:20:02 UTC",
+        "Built": "R 4.5.2; ; 2025-12-18 00:53:12 UTC; windows",
+        "RemoteType": "standard",
+        "RemotePkgRef": "BH",
+        "RemoteRef": "BH",
+        "RemoteRepos": "https://cran.rstudio.com",
+        "RemoteSha": "1.90.0-1"
+      }
+    },
     "DBI": {
       "Source": "CRAN",
       "Repository": "https://cran.rstudio.com",
@@ -101,6 +129,34 @@
         "Date/Publication": "2025-02-28 17:44:52 UTC",
         "Built": "R 4.5.3; x86_64-w64-mingw32; 2026-03-11 08:46:11 UTC; windows",
         "Archs": "x64"
+      }
+    },
+    "NLP": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.com",
+      "description": {
+        "Package": "NLP",
+        "Version": "0.3-2",
+        "Title": "Natural Language Processing Infrastructure",
+        "Authors@R": "person(\"Kurt\", \"Hornik\", role = c(\"aut\", \"cre\"),\n                  email = \"Kurt.Hornik@R-project.org\",\n\t\t  comment = c(ORCID = \"0000-0003-4198-9911\"))",
+        "Description": "Basic classes and methods for Natural Language Processing.",
+        "License": "GPL-3",
+        "Imports": "utils",
+        "Depends": "R (>= 3.5.0)",
+        "Enhances": "udpipe, spacyr, cleanNLP",
+        "Encoding": "UTF-8",
+        "NeedsCompilation": "no",
+        "Packaged": "2024-11-20 07:53:13 UTC; hornik",
+        "Author": "Kurt Hornik [aut, cre] (<https://orcid.org/0000-0003-4198-9911>)",
+        "Maintainer": "Kurt Hornik <Kurt.Hornik@R-project.org>",
+        "Repository": "CRAN",
+        "Date/Publication": "2024-11-20 08:04:45 UTC",
+        "Built": "R 4.5.2; ; 2025-11-01 00:38:30 UTC; windows",
+        "RemoteType": "standard",
+        "RemotePkgRef": "NLP",
+        "RemoteRef": "NLP",
+        "RemoteRepos": "https://cran.rstudio.com",
+        "RemoteSha": "0.3-2"
       }
     },
     "PKI": {
@@ -3363,6 +3419,34 @@
         "RemoteSha": "1.12.1"
       }
     },
+    "slam": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.com",
+      "description": {
+        "Package": "slam",
+        "Version": "0.1-55",
+        "Title": "Sparse Lightweight Arrays and Matrices",
+        "Authors@R": "c(person(\"Kurt\", \"Hornik\", role = c(\"aut\", \"cre\"),\n                     email = \"Kurt.Hornik@R-project.org\",\n\t\t     comment = c(ORCID = \"0000-0003-4198-9911\")),\n             person(\"David\", \"Meyer\", role = \"aut\",\n\t             email = \"David.Meyer@R-project.org\",\n\t\t     comment = c(ORCID = \"0000-0002-5196-3048\")),\n             person(\"Christian\", \"Buchta\", role = \"aut\"))",
+        "Description": "Data structures and algorithms for sparse arrays and matrices,\n  based on index arrays and simple triplet representations, respectively.",
+        "Depends": "R (>= 3.4.0)",
+        "Imports": "stats",
+        "Enhances": "Matrix, SparseM, spam",
+        "License": "GPL-2",
+        "NeedsCompilation": "yes",
+        "Packaged": "2024-11-12 16:45:23 UTC; hornik",
+        "Author": "Kurt Hornik [aut, cre] (<https://orcid.org/0000-0003-4198-9911>),\n  David Meyer [aut] (<https://orcid.org/0000-0002-5196-3048>),\n  Christian Buchta [aut]",
+        "Maintainer": "Kurt Hornik <Kurt.Hornik@R-project.org>",
+        "Repository": "CRAN",
+        "Date/Publication": "2024-11-13 07:13:31 UTC",
+        "Built": "R 4.5.2; x86_64-w64-mingw32; 2025-11-01 00:31:23 UTC; windows",
+        "Archs": "x64",
+        "RemoteType": "standard",
+        "RemotePkgRef": "slam",
+        "RemoteRef": "slam",
+        "RemoteRepos": "https://cran.rstudio.com",
+        "RemoteSha": "0.1-55"
+      }
+    },
     "snowflakeauth": {
       "Source": "CRAN",
       "Repository": "https://cran.rstudio.com",
@@ -3817,6 +3901,38 @@
         "RemoteSha": "0.58"
       }
     },
+    "tm": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.com",
+      "description": {
+        "Package": "tm",
+        "Title": "Text Mining Package",
+        "Version": "0.7-17",
+        "Date": "2025-12-10",
+        "Authors@R": "c(person(\"Ingo\", \"Feinerer\", role = \"aut\",\n                    email = \"feinerer@logic.at\",\n                    comment = c(ORCID = \"0000-0001-7656-8338\")),\n             person(\"Kurt\", \"Hornik\", role = c(\"aut\", \"cre\"),\n     \t\t    email = \"Kurt.Hornik@R-project.org\",\n                    comment = c(ORCID = \"0000-0003-4198-9911\")),\n             person(\"Artifex Software, Inc.\", role = c(\"ctb\", \"cph\"),\n                    comment = \"pdf_info.ps taken from GPL Ghostscript\"))",
+        "Depends": "R (>= 3.4.0), NLP (>= 0.2-0)",
+        "Imports": "Rcpp, parallel, slam (>= 0.1-37), stats, tools, utils,\ngraphics, xml2",
+        "LinkingTo": "BH, Rcpp",
+        "Suggests": "antiword, filehash, methods, pdftools, Rcampdf, Rgraphviz,\nRpoppler, SnowballC, testthat, tm.lexicon.GeneralInquirer",
+        "Description": "A framework for text mining applications within R.",
+        "License": "GPL-3",
+        "URL": "https://tm.r-forge.r-project.org/",
+        "Additional_repositories": "https://datacube.wu.ac.at",
+        "NeedsCompilation": "yes",
+        "Packaged": "2025-12-10 12:27:27 UTC; hornik",
+        "Author": "Ingo Feinerer [aut] (ORCID: <https://orcid.org/0000-0001-7656-8338>),\n  Kurt Hornik [aut, cre] (ORCID: <https://orcid.org/0000-0003-4198-9911>),\n  Artifex Software, Inc. [ctb, cph] (pdf_info.ps taken from GPL\n    Ghostscript)",
+        "Maintainer": "Kurt Hornik <Kurt.Hornik@R-project.org>",
+        "Repository": "CRAN",
+        "Date/Publication": "2025-12-10 13:41:05 UTC",
+        "Built": "R 4.5.2; x86_64-w64-mingw32; 2026-01-21 03:02:23 UTC; windows",
+        "Archs": "x64",
+        "RemoteType": "standard",
+        "RemotePkgRef": "tm",
+        "RemoteRef": "tm",
+        "RemoteRepos": "https://cran.rstudio.com",
+        "RemoteSha": "0.7-17"
+      }
+    },
     "tzdb": {
       "Source": "CRAN",
       "Repository": "https://cran.rstudio.com",
@@ -4268,34 +4384,34 @@
       "checksum": "7bd21a33f86ff35a2a5276d818612e32"
     },
     "data/awardType_data.csv": {
-      "checksum": "3ed3eadd29ff7db9d45dd058cf6c5110"
+      "checksum": "44c13df1d7caccb2ea56f5e41ce1579c"
     },
     "data/branch_theme_data.csv": {
-      "checksum": "534e94e9991cb012a9fe7d57fcc279e1"
+      "checksum": "7910d49a90ffd3d97ef64cd439d75b25"
     },
     "data/crosscut_data.csv": {
-      "checksum": "97b1ed31c69c839310b180cc875d90d0"
+      "checksum": "d531930888308becd090b7e3d3615ef2"
     },
     "data/grant_data_tagged.csv": {
-      "checksum": "07ab8651a73c8f492baee8674e98a308"
+      "checksum": "d9fa83d0da6d0a4539449872a4a80ef0"
     },
     "data/mech_data.csv": {
-      "checksum": "d8ee73652291b290e318e55218bbde3e"
+      "checksum": "6cdb558467ee7568758a780076e2e078"
     },
     "data/nofo_data.csv": {
-      "checksum": "87f433a5ff1dbb1e3355c9fb89612b00"
+      "checksum": "16f5fa45513a3147fb67dc9a510226bd"
     },
     "data/org_data.csv": {
-      "checksum": "9f8c5dd51452ba55a0845c5159e60371"
+      "checksum": "e5f2c697c38dc777e05a56897df76874"
     },
     "data/orgType_data.csv": {
-      "checksum": "1697cd23d7218a2a7652b5feec20236e"
+      "checksum": "b9620340233cf53784fa1a19489751e0"
     },
     "data/state_summary.csv": {
-      "checksum": "7b4b3f5d53b17432a98b54d503814062"
+      "checksum": "f99a3b402abf31a3e4e54b6e99bc8816"
     },
     "data/theme_data.csv": {
-      "checksum": "14bc27f03c216a2107712ee670e2a485"
+      "checksum": "02a23dabc5008219d5d91827f24dcc25"
     },
     "data/us_base_data.dbf": {
       "checksum": "df469fc6e213ab4ff78c96156b9e845c"
@@ -4311,6 +4427,21 @@
     },
     "data/us_base_sf_data.rds": {
       "checksum": "33f55626a4e932a44b9b6f775dd4b3da"
+    },
+    "helpers/2021_Gaz_zcta_national.txt": {
+      "checksum": "dc104aeced2b088cfb42ce1d81900fc2"
+    },
+    "helpers/get_nih_reporter.r": {
+      "checksum": "ee34ff232c13b94e333bca4ec2a4e6ae"
+    },
+    "helpers/nichd_theme_labels.csv": {
+      "checksum": "d2c392ff4dedb657b8dc9e7cfb8e69fe"
+    },
+    "helpers/nichd_theme_terms2.csv": {
+      "checksum": "f39b647bf1a67e78d1166b57131c65ec"
+    },
+    "helpers/po_lookup.csv": {
+      "checksum": "4a3e55a7259b4fb27dedafec24dcd72a"
     },
     "reporter_processing.r": {
       "checksum": "b819397c26ad65d1403407e8822d3764"
