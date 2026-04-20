@@ -35,10 +35,10 @@
 "Other Research-Related","KY","Funding",0.221268
 "Other Research-Related","LA","Awards",2
 "Other Research-Related","LA","Funding",2.101099
-"Other Research-Related","MA","Awards",32
-"Other Research-Related","MA","Funding",19.526601
-"Other Research-Related","MD","Awards",25
-"Other Research-Related","MD","Funding",6.266941
+"Other Research-Related","MA","Awards",33
+"Other Research-Related","MA","Funding",19.693353
+"Other Research-Related","MD","Awards",26
+"Other Research-Related","MD","Funding",6.400373
 "Other Research-Related","ME","Awards",1
 "Other Research-Related","ME","Funding",0.155987
 "Other Research-Related","MI","Awards",22
@@ -47,14 +47,14 @@
 "Other Research-Related","MN","Funding",0.931629
 "Other Research-Related","MO","Awards",14
 "Other Research-Related","MO","Funding",3.138672
-"Other Research-Related","NC","Awards",42
-"Other Research-Related","NC","Funding",26.099771
+"Other Research-Related","NC","Awards",43
+"Other Research-Related","NC","Funding",26.272394
 "Other Research-Related","NJ","Awards",5
 "Other Research-Related","NJ","Funding",0.614636
 "Other Research-Related","NM","Awards",2
 "Other Research-Related","NM","Funding",0.232694
-"Other Research-Related","NY","Awards",32
-"Other Research-Related","NY","Funding",7.675033
+"Other Research-Related","NY","Awards",31
+"Other Research-Related","NY","Funding",7.665033
 "Other Research-Related","OH","Awards",14
 "Other Research-Related","OH","Funding",4.374159
 "Other Research-Related","OR","Awards",5
@@ -95,8 +95,8 @@
 "R and D Contracts","LA","Funding",0.246869
 "R and D Contracts","MA","Awards",2
 "R and D Contracts","MA","Funding",0.229998
-"R and D Contracts","MD","Awards",26
-"R and D Contracts","MD","Funding",32.708185
+"R and D Contracts","MD","Awards",25
+"R and D Contracts","MD","Funding",30.91623
 "R and D Contracts","ME","Awards",1
 "R and D Contracts","ME","Funding",0.649999
 "R and D Contracts","MN","Awards",4
@@ -189,16 +189,16 @@
 "Research Projects","AR","Funding",3.817993
 "Research Projects","AZ","Awards",23
 "Research Projects","AZ","Funding",12.401097
-"Research Projects","CA","Awards",256
-"Research Projects","CA","Funding",123.248297
+"Research Projects","CA","Awards",257
+"Research Projects","CA","Funding",123.677677
 "Research Projects","CO","Awards",65
 "Research Projects","CO","Funding",36.247211
 "Research Projects","CT","Awards",55
 "Research Projects","CT","Funding",26.61083
 "Research Projects","DC","Awards",25
 "Research Projects","DC","Funding",17.747181
-"Research Projects","DE","Awards",7
-"Research Projects","DE","Funding",2.748157
+"Research Projects","DE","Awards",8
+"Research Projects","DE","Funding",3.22542
 "Research Projects","FL","Awards",36
 "Research Projects","FL","Funding",37.739712
 "Research Projects","GA","Awards",54
@@ -215,10 +215,10 @@
 "Research Projects","IN","Funding",16.316007
 "Research Projects","KS","Awards",25
 "Research Projects","KS","Funding",11.583441
-"Research Projects","KY","Awards",13
-"Research Projects","KY","Funding",5.769406
-"Research Projects","LA","Awards",11
-"Research Projects","LA","Funding",5.297786
+"Research Projects","KY","Awards",14
+"Research Projects","KY","Funding",6.157703
+"Research Projects","LA","Awards",12
+"Research Projects","LA","Funding",5.748968
 "Research Projects","MA","Awards",210
 "Research Projects","MA","Funding",147.143261
 "Research Projects","MB","Awards",1
@@ -231,12 +231,12 @@
 "Research Projects","MI","Funding",58.373202
 "Research Projects","MN","Awards",50
 "Research Projects","MN","Funding",23.192026
-"Research Projects","MO","Awards",66
-"Research Projects","MO","Funding",35.058814
+"Research Projects","MO","Awards",67
+"Research Projects","MO","Funding",35.754587
 "Research Projects","MS","Awards",3
 "Research Projects","MS","Funding",0.775766
 "Research Projects","NC","Awards",104
-"Research Projects","NC","Funding",50.639678
+"Research Projects","NC","Funding",50.681583
 "Research Projects","ND","Awards",2
 "Research Projects","ND","Funding",0.61558
 "Research Projects","NE","Awards",11
@@ -252,13 +252,13 @@
 "Research Projects","OH","Awards",89
 "Research Projects","OH","Funding",47.431539
 "Research Projects","OK","Awards",9
-"Research Projects","OK","Funding",3.734406
+"Research Projects","OK","Funding",3.775341
 "Research Projects","ON","Awards",3
 "Research Projects","ON","Funding",0.848032
 "Research Projects","OR","Awards",44
-"Research Projects","OR","Funding",22.795148
+"Research Projects","OR","Funding",22.848342
 "Research Projects","PA","Awards",158
-"Research Projects","PA","Funding",81.936168
+"Research Projects","PA","Funding",82.007859
 "Research Projects","RI","Awards",21
 "Research Projects","RI","Funding",7.94165
 "Research Projects","SC","Awards",27
@@ -266,7 +266,7 @@
 "Research Projects","TN","Awards",20
 "Research Projects","TN","Funding",10.448102
 "Research Projects","TX","Awards",127
-"Research Projects","TX","Funding",62.969776
+"Research Projects","TX","Funding",62.83435
 "Research Projects","UT","Awards",28
 "Research Projects","UT","Funding",12.720456
 "Research Projects","VA","Awards",34
@@ -339,10 +339,10 @@
 "Training, Individual","AL","Funding",0.050114
 "Training, Individual","AZ","Awards",1
 "Training, Individual","AZ","Funding",0.042171
-"Training, Individual","CA","Awards",31
-"Training, Individual","CA","Funding",1.781941
-"Training, Individual","CO","Awards",4
-"Training, Individual","CO","Funding",0.237973
+"Training, Individual","CA","Awards",32
+"Training, Individual","CA","Funding",1.860419
+"Training, Individual","CO","Awards",5
+"Training, Individual","CO","Funding",0.281625
 "Training, Individual","CT","Awards",6
 "Training, Individual","CT","Funding",0.245866
 "Training, Individual","DE","Awards",2
@@ -366,7 +366,7 @@
 "Training, Individual","ME","Awards",1
 "Training, Individual","ME","Funding",0.022943
 "Training, Individual","MI","Awards",8
-"Training, Individual","MI","Funding",0.346718
+"Training, Individual","MI","Funding",0.348765
 "Training, Individual","MN","Awards",3
 "Training, Individual","MN","Funding",0.121543
 "Training, Individual","MO","Awards",6
@@ -377,8 +377,8 @@
 "Training, Individual","NC","Funding",0.911243
 "Training, Individual","NJ","Awards",10
 "Training, Individual","NJ","Funding",0.52375
-"Training, Individual","NY","Awards",27
-"Training, Individual","NY","Funding",1.536456
+"Training, Individual","NY","Awards",28
+"Training, Individual","NY","Funding",1.587922
 "Training, Individual","OH","Awards",9
 "Training, Individual","OH","Funding",0.453751
 "Training, Individual","OR","Awards",3
@@ -392,13 +392,13 @@
 "Training, Individual","TN","Awards",2
 "Training, Individual","TN","Funding",0.081781
 "Training, Individual","TX","Awards",19
-"Training, Individual","TX","Funding",0.993744
+"Training, Individual","TX","Funding",0.995472
 "Training, Individual","UT","Awards",4
 "Training, Individual","UT","Funding",0.190489
 "Training, Individual","VA","Awards",4
 "Training, Individual","VA","Funding",0.264502
 "Training, Individual","WA","Awards",7
-"Training, Individual","WA","Funding",0.384405
+"Training, Individual","WA","Funding",0.386673
 "Training, Individual","WI","Awards",5
 "Training, Individual","WI","Funding",0.187569
 "Training, Institutional","AL","Awards",1
@@ -438,7 +438,7 @@
 "Training, Institutional","OR","Awards",1
 "Training, Institutional","OR","Funding",0.24699
 "Training, Institutional","PA","Awards",9
-"Training, Institutional","PA","Funding",3.346944
+"Training, Institutional","PA","Funding",3.339061
 "Training, Institutional","RI","Awards",2
 "Training, Institutional","RI","Funding",0.709648
 "Training, Institutional","TX","Awards",2
