@@ -62,7 +62,7 @@
 "ncmrr","Natl. Ctr. for Med. Rehabilitation Res.","AZ","Rehabilitation","Awards",4
 "ncmrr","Natl. Ctr. for Med. Rehabilitation Res.","AZ","Rehabilitation","Funding",2.57149
 "ncmrr","Natl. Ctr. for Med. Rehabilitation Res.","CA","Rehabilitation","Awards",17
-"ncmrr","Natl. Ctr. for Med. Rehabilitation Res.","CA","Rehabilitation","Funding",10.122209
+"ncmrr","Natl. Ctr. for Med. Rehabilitation Res.","CA","Rehabilitation","Funding",10.136253
 "ncmrr","Natl. Ctr. for Med. Rehabilitation Res.","CO","Rehabilitation","Awards",7
 "ncmrr","Natl. Ctr. for Med. Rehabilitation Res.","CO","Rehabilitation","Funding",2.349554
 "ncmrr","Natl. Ctr. for Med. Rehabilitation Res.","CT","Rehabilitation","Awards",1
@@ -79,14 +79,14 @@
 "ncmrr","Natl. Ctr. for Med. Rehabilitation Res.","IA","Rehabilitation","Funding",0.229318
 "ncmrr","Natl. Ctr. for Med. Rehabilitation Res.","IL","Rehabilitation","Awards",28
 "ncmrr","Natl. Ctr. for Med. Rehabilitation Res.","IL","Rehabilitation","Funding",14.62295
-"ncmrr","Natl. Ctr. for Med. Rehabilitation Res.","IN","Rehabilitation","Awards",1
-"ncmrr","Natl. Ctr. for Med. Rehabilitation Res.","IN","Rehabilitation","Funding",0.468992
+"ncmrr","Natl. Ctr. for Med. Rehabilitation Res.","IN","Rehabilitation","Awards",2
+"ncmrr","Natl. Ctr. for Med. Rehabilitation Res.","IN","Rehabilitation","Funding",0.773829
 "ncmrr","Natl. Ctr. for Med. Rehabilitation Res.","KS","Rehabilitation","Awards",2
 "ncmrr","Natl. Ctr. for Med. Rehabilitation Res.","KS","Rehabilitation","Funding",0.511087
 "ncmrr","Natl. Ctr. for Med. Rehabilitation Res.","KY","Rehabilitation","Awards",1
 "ncmrr","Natl. Ctr. for Med. Rehabilitation Res.","KY","Rehabilitation","Funding",0.379591
-"ncmrr","Natl. Ctr. for Med. Rehabilitation Res.","MA","Rehabilitation","Awards",8
-"ncmrr","Natl. Ctr. for Med. Rehabilitation Res.","MA","Rehabilitation","Funding",5.034242
+"ncmrr","Natl. Ctr. for Med. Rehabilitation Res.","MA","Rehabilitation","Awards",9
+"ncmrr","Natl. Ctr. for Med. Rehabilitation Res.","MA","Rehabilitation","Funding",5.306566
 "ncmrr","Natl. Ctr. for Med. Rehabilitation Res.","MD","Rehabilitation","Awards",6
 "ncmrr","Natl. Ctr. for Med. Rehabilitation Res.","MD","Rehabilitation","Funding",3.934689
 "ncmrr","Natl. Ctr. for Med. Rehabilitation Res.","MI","Rehabilitation","Awards",12
@@ -101,10 +101,10 @@
 "ncmrr","Natl. Ctr. for Med. Rehabilitation Res.","NE","Rehabilitation","Funding",1.771972
 "ncmrr","Natl. Ctr. for Med. Rehabilitation Res.","NJ","Rehabilitation","Awards",4
 "ncmrr","Natl. Ctr. for Med. Rehabilitation Res.","NJ","Rehabilitation","Funding",1.11085
-"ncmrr","Natl. Ctr. for Med. Rehabilitation Res.","NY","Rehabilitation","Awards",5
-"ncmrr","Natl. Ctr. for Med. Rehabilitation Res.","NY","Rehabilitation","Funding",2.501937
-"ncmrr","Natl. Ctr. for Med. Rehabilitation Res.","OH","Rehabilitation","Awards",12
-"ncmrr","Natl. Ctr. for Med. Rehabilitation Res.","OH","Rehabilitation","Funding",4.756193
+"ncmrr","Natl. Ctr. for Med. Rehabilitation Res.","NY","Rehabilitation","Awards",6
+"ncmrr","Natl. Ctr. for Med. Rehabilitation Res.","NY","Rehabilitation","Funding",2.927649
+"ncmrr","Natl. Ctr. for Med. Rehabilitation Res.","OH","Rehabilitation","Awards",13
+"ncmrr","Natl. Ctr. for Med. Rehabilitation Res.","OH","Rehabilitation","Funding",5.394936
 "ncmrr","Natl. Ctr. for Med. Rehabilitation Res.","OR","Rehabilitation","Awards",3
 "ncmrr","Natl. Ctr. for Med. Rehabilitation Res.","OR","Rehabilitation","Funding",1.259452
 "ncmrr","Natl. Ctr. for Med. Rehabilitation Res.","PA","Rehabilitation","Awards",14
@@ -153,6 +153,8 @@
 "ncmrr","Pregnancy & Perinatology","ID","Rehabilitation","Funding",0.573021
 "ncmrr","Pregnancy & Perinatology","MI","Rehabilitation","Awards",2
 "ncmrr","Pregnancy & Perinatology","MI","Rehabilitation","Funding",0.194446
+"ncmrr","Pregnancy & Perinatology","MO","Rehabilitation","Awards",1
+"ncmrr","Pregnancy & Perinatology","MO","Rehabilitation","Funding",0.334325
 "ncmrr","Pregnancy & Perinatology","PA","Rehabilitation","Awards",2
 "ncmrr","Pregnancy & Perinatology","PA","Rehabilitation","Funding",0.881279
 "ncmrr","Pregnancy & Perinatology","TX","Rehabilitation","Awards",1
@@ -189,8 +191,8 @@
 "theme1","Dev. Biology & Congenital Anomalies","HI","Developmental Biology","Funding",0.1565
 "theme1","Dev. Biology & Congenital Anomalies","ID","Developmental Biology","Awards",1
 "theme1","Dev. Biology & Congenital Anomalies","ID","Developmental Biology","Funding",0.415376
-"theme1","Dev. Biology & Congenital Anomalies","IL","Developmental Biology","Awards",6
-"theme1","Dev. Biology & Congenital Anomalies","IL","Developmental Biology","Funding",1.809769
+"theme1","Dev. Biology & Congenital Anomalies","IL","Developmental Biology","Awards",7
+"theme1","Dev. Biology & Congenital Anomalies","IL","Developmental Biology","Funding",3.401714
 "theme1","Dev. Biology & Congenital Anomalies","IN","Developmental Biology","Awards",1
 "theme1","Dev. Biology & Congenital Anomalies","IN","Developmental Biology","Funding",0.425348
 "theme1","Dev. Biology & Congenital Anomalies","KY","Developmental Biology","Awards",2
@@ -203,8 +205,8 @@
 "theme1","Dev. Biology & Congenital Anomalies","MD","Developmental Biology","Funding",3.445711
 "theme1","Dev. Biology & Congenital Anomalies","ME","Developmental Biology","Awards",4
 "theme1","Dev. Biology & Congenital Anomalies","ME","Developmental Biology","Funding",1.901615
-"theme1","Dev. Biology & Congenital Anomalies","MI","Developmental Biology","Awards",5
-"theme1","Dev. Biology & Congenital Anomalies","MI","Developmental Biology","Funding",2.160085
+"theme1","Dev. Biology & Congenital Anomalies","MI","Developmental Biology","Awards",6
+"theme1","Dev. Biology & Congenital Anomalies","MI","Developmental Biology","Funding",2.180085
 "theme1","Dev. Biology & Congenital Anomalies","MN","Developmental Biology","Awards",3
 "theme1","Dev. Biology & Congenital Anomalies","MN","Developmental Biology","Funding",0.705609
 "theme1","Dev. Biology & Congenital Anomalies","MO","Developmental Biology","Awards",6
@@ -215,12 +217,12 @@
 "theme1","Dev. Biology & Congenital Anomalies","NC","Developmental Biology","Funding",6.510372
 "theme1","Dev. Biology & Congenital Anomalies","NJ","Developmental Biology","Awards",12
 "theme1","Dev. Biology & Congenital Anomalies","NJ","Developmental Biology","Funding",5.290644
-"theme1","Dev. Biology & Congenital Anomalies","NY","Developmental Biology","Awards",32
-"theme1","Dev. Biology & Congenital Anomalies","NY","Developmental Biology","Funding",10.970928
-"theme1","Dev. Biology & Congenital Anomalies","OH","Developmental Biology","Awards",8
-"theme1","Dev. Biology & Congenital Anomalies","OH","Developmental Biology","Funding",2.112341
-"theme1","Dev. Biology & Congenital Anomalies","OR","Developmental Biology","Awards",4
-"theme1","Dev. Biology & Congenital Anomalies","OR","Developmental Biology","Funding",1.017333
+"theme1","Dev. Biology & Congenital Anomalies","NY","Developmental Biology","Awards",33
+"theme1","Dev. Biology & Congenital Anomalies","NY","Developmental Biology","Funding",11.435678
+"theme1","Dev. Biology & Congenital Anomalies","OH","Developmental Biology","Awards",9
+"theme1","Dev. Biology & Congenital Anomalies","OH","Developmental Biology","Funding",3.71128
+"theme1","Dev. Biology & Congenital Anomalies","OR","Developmental Biology","Awards",5
+"theme1","Dev. Biology & Congenital Anomalies","OR","Developmental Biology","Funding",1.270479
 "theme1","Dev. Biology & Congenital Anomalies","PA","Developmental Biology","Awards",16
 "theme1","Dev. Biology & Congenital Anomalies","PA","Developmental Biology","Funding",5.639457
 "theme1","Dev. Biology & Congenital Anomalies","RI","Developmental Biology","Awards",1
@@ -263,8 +265,8 @@
 "theme1","Fertility & Infertility","MD","Developmental Biology","Funding",1.777856
 "theme1","Fertility & Infertility","ME","Developmental Biology","Awards",1
 "theme1","Fertility & Infertility","ME","Developmental Biology","Funding",0.401093
-"theme1","Fertility & Infertility","MI","Developmental Biology","Awards",8
-"theme1","Fertility & Infertility","MI","Developmental Biology","Funding",3.015118
+"theme1","Fertility & Infertility","MI","Developmental Biology","Awards",9
+"theme1","Fertility & Infertility","MI","Developmental Biology","Funding",3.378254
 "theme1","Fertility & Infertility","MO","Developmental Biology","Awards",7
 "theme1","Fertility & Infertility","MO","Developmental Biology","Funding",2.655114
 "theme1","Fertility & Infertility","MS","Developmental Biology","Awards",1
@@ -301,8 +303,8 @@
 "theme1","Fertility & Infertility","WY","Developmental Biology","Funding",0.7225
 "theme1","Gynecologic Health & Disease","CA","Developmental Biology","Awards",2
 "theme1","Gynecologic Health & Disease","CA","Developmental Biology","Funding",0.601196
-"theme1","Gynecologic Health & Disease","CT","Developmental Biology","Awards",1
-"theme1","Gynecologic Health & Disease","CT","Developmental Biology","Funding",0.55483
+"theme1","Gynecologic Health & Disease","CT","Developmental Biology","Awards",2
+"theme1","Gynecologic Health & Disease","CT","Developmental Biology","Funding",0.902601
 "theme1","Gynecologic Health & Disease","HI","Developmental Biology","Awards",1
 "theme1","Gynecologic Health & Disease","HI","Developmental Biology","Funding",0.1565
 "theme1","Gynecologic Health & Disease","IL","Developmental Biology","Awards",1
@@ -341,14 +343,14 @@
 "theme1","Intellectual & Developmental Disabilities","GA","Developmental Biology","Funding",1.426383
 "theme1","Intellectual & Developmental Disabilities","IA","Developmental Biology","Awards",2
 "theme1","Intellectual & Developmental Disabilities","IA","Developmental Biology","Funding",1.923586
-"theme1","Intellectual & Developmental Disabilities","IL","Developmental Biology","Awards",2
-"theme1","Intellectual & Developmental Disabilities","IL","Developmental Biology","Funding",0.0482
+"theme1","Intellectual & Developmental Disabilities","IL","Developmental Biology","Awards",3
+"theme1","Intellectual & Developmental Disabilities","IL","Developmental Biology","Funding",0.452636
 "theme1","Intellectual & Developmental Disabilities","IN","Developmental Biology","Awards",3
 "theme1","Intellectual & Developmental Disabilities","IN","Developmental Biology","Funding",3.262076
 "theme1","Intellectual & Developmental Disabilities","KY","Developmental Biology","Awards",1
 "theme1","Intellectual & Developmental Disabilities","KY","Developmental Biology","Funding",0.456892
-"theme1","Intellectual & Developmental Disabilities","MA","Developmental Biology","Awards",15
-"theme1","Intellectual & Developmental Disabilities","MA","Developmental Biology","Funding",8.131002
+"theme1","Intellectual & Developmental Disabilities","MA","Developmental Biology","Awards",17
+"theme1","Intellectual & Developmental Disabilities","MA","Developmental Biology","Funding",9.367135
 "theme1","Intellectual & Developmental Disabilities","MD","Developmental Biology","Awards",1
 "theme1","Intellectual & Developmental Disabilities","MD","Developmental Biology","Funding",0.655622
 "theme1","Intellectual & Developmental Disabilities","ME","Developmental Biology","Awards",2
@@ -391,8 +393,8 @@
 "theme1","Matern. & Ped. Infectious Diseases","DC","Developmental Biology","Funding",0.705796
 "theme1","Matern. & Ped. Infectious Diseases","MI","Developmental Biology","Awards",1
 "theme1","Matern. & Ped. Infectious Diseases","MI","Developmental Biology","Funding",0.618017
-"theme1","Matern. & Ped. Infectious Diseases","MN","Developmental Biology","Awards",1
-"theme1","Matern. & Ped. Infectious Diseases","MN","Developmental Biology","Funding",0.397077
+"theme1","Matern. & Ped. Infectious Diseases","MN","Developmental Biology","Awards",2
+"theme1","Matern. & Ped. Infectious Diseases","MN","Developmental Biology","Funding",1.07438
 "theme1","Matern. & Ped. Infectious Diseases","ON","Developmental Biology","Awards",1
 "theme1","Matern. & Ped. Infectious Diseases","ON","Developmental Biology","Funding",0.22676
 "theme1","Matern. & Ped. Infectious Diseases","PA","Developmental Biology","Awards",1
@@ -407,6 +409,8 @@
 "theme1","Natl. Ctr. for Med. Rehabilitation Res.","MI","Developmental Biology","Funding",0.569445
 "theme1","Natl. Ctr. for Med. Rehabilitation Res.","UT","Developmental Biology","Awards",1
 "theme1","Natl. Ctr. for Med. Rehabilitation Res.","UT","Developmental Biology","Funding",0.454795
+"theme1","Obstet. & Ped. Pharmacol. & Therap.","AR","Developmental Biology","Awards",1
+"theme1","Obstet. & Ped. Pharmacol. & Therap.","AR","Developmental Biology","Funding",0.606257
 "theme1","Obstet. & Ped. Pharmacol. & Therap.","CA","Developmental Biology","Awards",2
 "theme1","Obstet. & Ped. Pharmacol. & Therap.","CA","Developmental Biology","Funding",1.187323
 "theme1","Obstet. & Ped. Pharmacol. & Therap.","FL","Developmental Biology","Awards",1
@@ -477,8 +481,8 @@
 "theme1","Pregnancy & Perinatology","CO","Developmental Biology","Funding",1.437636
 "theme1","Pregnancy & Perinatology","CT","Developmental Biology","Awards",2
 "theme1","Pregnancy & Perinatology","CT","Developmental Biology","Funding",0.415239
-"theme1","Pregnancy & Perinatology","KS","Developmental Biology","Awards",6
-"theme1","Pregnancy & Perinatology","KS","Developmental Biology","Funding",2.210789
+"theme1","Pregnancy & Perinatology","KS","Developmental Biology","Awards",7
+"theme1","Pregnancy & Perinatology","KS","Developmental Biology","Funding",2.736059
 "theme1","Pregnancy & Perinatology","MA","Developmental Biology","Awards",3
 "theme1","Pregnancy & Perinatology","MA","Developmental Biology","Funding",1.540869
 "theme1","Pregnancy & Perinatology","MD","Developmental Biology","Awards",3
@@ -505,8 +509,8 @@
 "theme1","Pregnancy & Perinatology","VA","Developmental Biology","Funding",2.745152
 "theme1","Pregnancy & Perinatology","WA","Developmental Biology","Awards",2
 "theme1","Pregnancy & Perinatology","WA","Developmental Biology","Funding",0.408845
-"theme1","Pregnancy & Perinatology","WI","Developmental Biology","Awards",1
-"theme1","Pregnancy & Perinatology","WI","Developmental Biology","Funding",0.248999
+"theme1","Pregnancy & Perinatology","WI","Developmental Biology","Awards",2
+"theme1","Pregnancy & Perinatology","WI","Developmental Biology","Funding",0.80889
 "theme2","Child Development & Behavior","CT","Reproductive Health","Awards",1
 "theme2","Child Development & Behavior","CT","Reproductive Health","Funding",0.625912
 "theme2","Child Development & Behavior","MA","Reproductive Health","Awards",1
@@ -543,28 +547,28 @@
 "theme2","Fertility & Infertility","CT","Reproductive Health","Funding",3.215718
 "theme2","Fertility & Infertility","DC","Reproductive Health","Awards",1
 "theme2","Fertility & Infertility","DC","Reproductive Health","Funding",0.275756
-"theme2","Fertility & Infertility","FL","Reproductive Health","Awards",2
-"theme2","Fertility & Infertility","FL","Reproductive Health","Funding",0.931668
+"theme2","Fertility & Infertility","FL","Reproductive Health","Awards",3
+"theme2","Fertility & Infertility","FL","Reproductive Health","Funding",1.045905
 "theme2","Fertility & Infertility","GA","Reproductive Health","Awards",6
 "theme2","Fertility & Infertility","GA","Reproductive Health","Funding",1.972916
 "theme2","Fertility & Infertility","HI","Reproductive Health","Awards",2
 "theme2","Fertility & Infertility","HI","Reproductive Health","Funding",0.492105
-"theme2","Fertility & Infertility","IL","Reproductive Health","Awards",18
-"theme2","Fertility & Infertility","IL","Reproductive Health","Funding",5.767341
+"theme2","Fertility & Infertility","IL","Reproductive Health","Awards",19
+"theme2","Fertility & Infertility","IL","Reproductive Health","Funding",5.812668
 "theme2","Fertility & Infertility","IN","Reproductive Health","Awards",3
 "theme2","Fertility & Infertility","IN","Reproductive Health","Funding",1.015244
 "theme2","Fertility & Infertility","KS","Reproductive Health","Awards",5
 "theme2","Fertility & Infertility","KS","Reproductive Health","Funding",1.050195
-"theme2","Fertility & Infertility","KY","Reproductive Health","Awards",4
-"theme2","Fertility & Infertility","KY","Reproductive Health","Funding",1.604719
-"theme2","Fertility & Infertility","MA","Reproductive Health","Awards",28
-"theme2","Fertility & Infertility","MA","Reproductive Health","Funding",14.013615
+"theme2","Fertility & Infertility","KY","Reproductive Health","Awards",5
+"theme2","Fertility & Infertility","KY","Reproductive Health","Funding",1.969063
+"theme2","Fertility & Infertility","MA","Reproductive Health","Awards",29
+"theme2","Fertility & Infertility","MA","Reproductive Health","Funding",14.645273
 "theme2","Fertility & Infertility","MD","Reproductive Health","Awards",3
 "theme2","Fertility & Infertility","MD","Reproductive Health","Funding",1.201055
 "theme2","Fertility & Infertility","ME","Reproductive Health","Awards",1
 "theme2","Fertility & Infertility","ME","Reproductive Health","Funding",0.401093
-"theme2","Fertility & Infertility","MI","Reproductive Health","Awards",21
-"theme2","Fertility & Infertility","MI","Reproductive Health","Funding",9.447646
+"theme2","Fertility & Infertility","MI","Reproductive Health","Awards",22
+"theme2","Fertility & Infertility","MI","Reproductive Health","Funding",9.810782
 "theme2","Fertility & Infertility","MN","Reproductive Health","Awards",2
 "theme2","Fertility & Infertility","MN","Reproductive Health","Funding",0.56875
 "theme2","Fertility & Infertility","MO","Reproductive Health","Awards",15
@@ -611,12 +615,14 @@
 "theme2","Fertility & Infertility","ZZ","Reproductive Health","Funding",0.362371
 "theme2","Gynecologic Health & Disease","AL","Reproductive Health","Awards",1
 "theme2","Gynecologic Health & Disease","AL","Reproductive Health","Funding",0.155589
+"theme2","Gynecologic Health & Disease","AZ","Reproductive Health","Awards",2
+"theme2","Gynecologic Health & Disease","AZ","Reproductive Health","Funding",0.615246
 "theme2","Gynecologic Health & Disease","CA","Reproductive Health","Awards",24
 "theme2","Gynecologic Health & Disease","CA","Reproductive Health","Funding",12.36187
 "theme2","Gynecologic Health & Disease","CO","Reproductive Health","Awards",3
 "theme2","Gynecologic Health & Disease","CO","Reproductive Health","Funding",1.282089
-"theme2","Gynecologic Health & Disease","CT","Reproductive Health","Awards",5
-"theme2","Gynecologic Health & Disease","CT","Reproductive Health","Funding",3.635187
+"theme2","Gynecologic Health & Disease","CT","Reproductive Health","Awards",6
+"theme2","Gynecologic Health & Disease","CT","Reproductive Health","Funding",3.982958
 "theme2","Gynecologic Health & Disease","DE","Reproductive Health","Awards",1
 "theme2","Gynecologic Health & Disease","DE","Reproductive Health","Funding",0.430063
 "theme2","Gynecologic Health & Disease","FL","Reproductive Health","Awards",2
@@ -643,8 +649,8 @@
 "theme2","Gynecologic Health & Disease","NC","Reproductive Health","Funding",6.815186
 "theme2","Gynecologic Health & Disease","NH","Reproductive Health","Awards",1
 "theme2","Gynecologic Health & Disease","NH","Reproductive Health","Funding",0.995757
-"theme2","Gynecologic Health & Disease","NY","Reproductive Health","Awards",2
-"theme2","Gynecologic Health & Disease","NY","Reproductive Health","Funding",0.515663
+"theme2","Gynecologic Health & Disease","NY","Reproductive Health","Awards",4
+"theme2","Gynecologic Health & Disease","NY","Reproductive Health","Funding",1.357038
 "theme2","Gynecologic Health & Disease","OH","Reproductive Health","Awards",1
 "theme2","Gynecologic Health & Disease","OH","Reproductive Health","Funding",0.688436
 "theme2","Gynecologic Health & Disease","OR","Reproductive Health","Awards",6
@@ -675,6 +681,8 @@
 "theme2","Intellectual & Developmental Disabilities","MI","Reproductive Health","Funding",0.599935
 "theme2","Intellectual & Developmental Disabilities","MN","Reproductive Health","Awards",1
 "theme2","Intellectual & Developmental Disabilities","MN","Reproductive Health","Funding",0.676561
+"theme2","Intellectual & Developmental Disabilities","NJ","Reproductive Health","Awards",1
+"theme2","Intellectual & Developmental Disabilities","NJ","Reproductive Health","Funding",0.747
 "theme2","Intellectual & Developmental Disabilities","TN","Reproductive Health","Awards",1
 "theme2","Intellectual & Developmental Disabilities","TN","Reproductive Health","Funding",0.719572
 "theme2","Intellectual & Developmental Disabilities","VA","Reproductive Health","Awards",2
@@ -701,8 +709,8 @@
 "theme2","Matern. & Ped. Infectious Diseases","PA","Reproductive Health","Funding",0.628534
 "theme2","Matern. & Ped. Infectious Diseases","TX","Reproductive Health","Awards",1
 "theme2","Matern. & Ped. Infectious Diseases","TX","Reproductive Health","Funding",0.049538
-"theme2","Matern. & Ped. Infectious Diseases","WA","Reproductive Health","Awards",5
-"theme2","Matern. & Ped. Infectious Diseases","WA","Reproductive Health","Funding",3.206475
+"theme2","Matern. & Ped. Infectious Diseases","WA","Reproductive Health","Awards",6
+"theme2","Matern. & Ped. Infectious Diseases","WA","Reproductive Health","Funding",3.838064
 "theme2","Natl. Ctr. for Med. Rehabilitation Res.","KY","Reproductive Health","Awards",1
 "theme2","Natl. Ctr. for Med. Rehabilitation Res.","KY","Reproductive Health","Funding",0.379591
 "theme2","Natl. Ctr. for Med. Rehabilitation Res.","TX","Reproductive Health","Awards",1
@@ -765,8 +773,8 @@
 "theme2","Population Dynamics","MN","Reproductive Health","Funding",4.805584
 "theme2","Population Dynamics","NC","Reproductive Health","Awards",3
 "theme2","Population Dynamics","NC","Reproductive Health","Funding",0.385711
-"theme2","Population Dynamics","NY","Reproductive Health","Awards",1
-"theme2","Population Dynamics","NY","Reproductive Health","Funding",0.158534
+"theme2","Population Dynamics","NY","Reproductive Health","Awards",2
+"theme2","Population Dynamics","NY","Reproductive Health","Funding",0.288947
 "theme2","Population Dynamics","OR","Reproductive Health","Awards",1
 "theme2","Population Dynamics","OR","Reproductive Health","Funding",0.145368
 "theme2","Population Dynamics","PA","Reproductive Health","Awards",10
@@ -793,8 +801,8 @@
 "theme2","Pregnancy & Perinatology","IL","Reproductive Health","Funding",0.31164
 "theme2","Pregnancy & Perinatology","IN","Reproductive Health","Awards",1
 "theme2","Pregnancy & Perinatology","IN","Reproductive Health","Funding",0.435875
-"theme2","Pregnancy & Perinatology","KS","Reproductive Health","Awards",4
-"theme2","Pregnancy & Perinatology","KS","Reproductive Health","Funding",1.353836
+"theme2","Pregnancy & Perinatology","KS","Reproductive Health","Awards",5
+"theme2","Pregnancy & Perinatology","KS","Reproductive Health","Funding",1.879106
 "theme2","Pregnancy & Perinatology","MA","Reproductive Health","Awards",2
 "theme2","Pregnancy & Perinatology","MA","Reproductive Health","Funding",1.950779
 "theme2","Pregnancy & Perinatology","MD","Reproductive Health","Awards",2
@@ -803,8 +811,8 @@
 "theme2","Pregnancy & Perinatology","MI","Reproductive Health","Funding",1.739117
 "theme2","Pregnancy & Perinatology","MN","Reproductive Health","Awards",1
 "theme2","Pregnancy & Perinatology","MN","Reproductive Health","Funding",0.62162
-"theme2","Pregnancy & Perinatology","MO","Reproductive Health","Awards",6
-"theme2","Pregnancy & Perinatology","MO","Reproductive Health","Funding",2.028069
+"theme2","Pregnancy & Perinatology","MO","Reproductive Health","Awards",7
+"theme2","Pregnancy & Perinatology","MO","Reproductive Health","Funding",2.362394
 "theme2","Pregnancy & Perinatology","NC","Reproductive Health","Awards",3
 "theme2","Pregnancy & Perinatology","NC","Reproductive Health","Funding",1.0121
 "theme2","Pregnancy & Perinatology","NJ","Reproductive Health","Awards",1
@@ -845,6 +853,8 @@
 "theme3","Child Development & Behavior","GA","Pregnancy","Funding",0.639857
 "theme3","Child Development & Behavior","IA","Pregnancy","Awards",3
 "theme3","Child Development & Behavior","IA","Pregnancy","Funding",1.615607
+"theme3","Child Development & Behavior","IL","Pregnancy","Awards",1
+"theme3","Child Development & Behavior","IL","Pregnancy","Funding",0.617584
 "theme3","Child Development & Behavior","MA","Pregnancy","Awards",1
 "theme3","Child Development & Behavior","MA","Pregnancy","Funding",0.749717
 "theme3","Child Development & Behavior","MD","Pregnancy","Awards",1
@@ -865,8 +875,8 @@
 "theme3","Child Development & Behavior","SC","Pregnancy","Funding",0.292678
 "theme3","Child Development & Behavior","TN","Pregnancy","Awards",1
 "theme3","Child Development & Behavior","TN","Pregnancy","Funding",0.42075
-"theme3","Child Development & Behavior","TX","Pregnancy","Awards",1
-"theme3","Child Development & Behavior","TX","Pregnancy","Funding",0.646267
+"theme3","Child Development & Behavior","TX","Pregnancy","Awards",2
+"theme3","Child Development & Behavior","TX","Pregnancy","Funding",1.244003
 "theme3","Dev. Biology & Congenital Anomalies","CA","Pregnancy","Awards",6
 "theme3","Dev. Biology & Congenital Anomalies","CA","Pregnancy","Funding",2.962707
 "theme3","Dev. Biology & Congenital Anomalies","CO","Pregnancy","Awards",1
@@ -917,8 +927,8 @@
 "theme3","Fertility & Infertility","KS","Pregnancy","Funding",1.081537
 "theme3","Fertility & Infertility","MA","Pregnancy","Awards",7
 "theme3","Fertility & Infertility","MA","Pregnancy","Funding",3.344682
-"theme3","Fertility & Infertility","MI","Pregnancy","Awards",4
-"theme3","Fertility & Infertility","MI","Pregnancy","Funding",1.395838
+"theme3","Fertility & Infertility","MI","Pregnancy","Awards",5
+"theme3","Fertility & Infertility","MI","Pregnancy","Funding",1.758974
 "theme3","Fertility & Infertility","MO","Pregnancy","Awards",3
 "theme3","Fertility & Infertility","MO","Pregnancy","Funding",1.11036
 "theme3","Fertility & Infertility","NC","Pregnancy","Awards",2
@@ -973,16 +983,16 @@
 "theme3","Intellectual & Developmental Disabilities","CO","Pregnancy","Funding",1.139272
 "theme3","Intellectual & Developmental Disabilities","IA","Pregnancy","Awards",1
 "theme3","Intellectual & Developmental Disabilities","IA","Pregnancy","Funding",0.65789
-"theme3","Intellectual & Developmental Disabilities","MA","Pregnancy","Awards",2
-"theme3","Intellectual & Developmental Disabilities","MA","Pregnancy","Funding",0.786698
+"theme3","Intellectual & Developmental Disabilities","MA","Pregnancy","Awards",3
+"theme3","Intellectual & Developmental Disabilities","MA","Pregnancy","Funding",1.318283
 "theme3","Intellectual & Developmental Disabilities","MN","Pregnancy","Awards",1
 "theme3","Intellectual & Developmental Disabilities","MN","Pregnancy","Funding",0.035978
 "theme3","Intellectual & Developmental Disabilities","MO","Pregnancy","Awards",3
 "theme3","Intellectual & Developmental Disabilities","MO","Pregnancy","Funding",0.947111
 "theme3","Intellectual & Developmental Disabilities","NC","Pregnancy","Awards",2
 "theme3","Intellectual & Developmental Disabilities","NC","Pregnancy","Funding",0.783769
-"theme3","Intellectual & Developmental Disabilities","NJ","Pregnancy","Awards",1
-"theme3","Intellectual & Developmental Disabilities","NJ","Pregnancy","Funding",0.43175
+"theme3","Intellectual & Developmental Disabilities","NJ","Pregnancy","Awards",2
+"theme3","Intellectual & Developmental Disabilities","NJ","Pregnancy","Funding",1.17875
 "theme3","Intellectual & Developmental Disabilities","NY","Pregnancy","Awards",2
 "theme3","Intellectual & Developmental Disabilities","NY","Pregnancy","Funding",1.202636
 "theme3","Intellectual & Developmental Disabilities","RI","Pregnancy","Awards",1
@@ -1007,8 +1017,8 @@
 "theme3","Matern. & Ped. Infectious Diseases","IN","Pregnancy","Funding",1.055571
 "theme3","Matern. & Ped. Infectious Diseases","LA","Pregnancy","Awards",1
 "theme3","Matern. & Ped. Infectious Diseases","LA","Pregnancy","Funding",0.786987
-"theme3","Matern. & Ped. Infectious Diseases","MA","Pregnancy","Awards",17
-"theme3","Matern. & Ped. Infectious Diseases","MA","Pregnancy","Funding",33.611271
+"theme3","Matern. & Ped. Infectious Diseases","MA","Pregnancy","Awards",18
+"theme3","Matern. & Ped. Infectious Diseases","MA","Pregnancy","Funding",33.649567
 "theme3","Matern. & Ped. Infectious Diseases","MD","Pregnancy","Awards",6
 "theme3","Matern. & Ped. Infectious Diseases","MD","Pregnancy","Funding",2.936611
 "theme3","Matern. & Ped. Infectious Diseases","MI","Pregnancy","Awards",2
@@ -1035,8 +1045,8 @@
 "theme3","Matern. & Ped. Infectious Diseases","TX","Pregnancy","Funding",1.340943
 "theme3","Matern. & Ped. Infectious Diseases","VT","Pregnancy","Awards",1
 "theme3","Matern. & Ped. Infectious Diseases","VT","Pregnancy","Funding",0.390641
-"theme3","Matern. & Ped. Infectious Diseases","WA","Pregnancy","Awards",9
-"theme3","Matern. & Ped. Infectious Diseases","WA","Pregnancy","Funding",4.349395
+"theme3","Matern. & Ped. Infectious Diseases","WA","Pregnancy","Awards",10
+"theme3","Matern. & Ped. Infectious Diseases","WA","Pregnancy","Funding",4.980984
 "theme3","Matern. & Ped. Infectious Diseases","ZZ","Pregnancy","Awards",1
 "theme3","Matern. & Ped. Infectious Diseases","ZZ","Pregnancy","Funding",0.555945
 "theme3","Natl. Ctr. for Med. Rehabilitation Res.","MA","Pregnancy","Awards",1
@@ -1059,6 +1069,8 @@
 "theme3","Obstet. & Ped. Pharmacol. & Therap.","CO","Pregnancy","Funding",1.31849
 "theme3","Obstet. & Ped. Pharmacol. & Therap.","CT","Pregnancy","Awards",1
 "theme3","Obstet. & Ped. Pharmacol. & Therap.","CT","Pregnancy","Funding",0.486111
+"theme3","Obstet. & Ped. Pharmacol. & Therap.","DC","Pregnancy","Awards",1
+"theme3","Obstet. & Ped. Pharmacol. & Therap.","DC","Pregnancy","Funding",0.01
 "theme3","Obstet. & Ped. Pharmacol. & Therap.","FL","Pregnancy","Awards",3
 "theme3","Obstet. & Ped. Pharmacol. & Therap.","FL","Pregnancy","Funding",0.966603
 "theme3","Obstet. & Ped. Pharmacol. & Therap.","GA","Pregnancy","Awards",1
@@ -1103,8 +1115,8 @@
 "theme3","Pediatric Growth & Nutrition","AL","Pregnancy","Funding",0.467474
 "theme3","Pediatric Growth & Nutrition","AZ","Pregnancy","Awards",1
 "theme3","Pediatric Growth & Nutrition","AZ","Pregnancy","Funding",0.233545
-"theme3","Pediatric Growth & Nutrition","CA","Pregnancy","Awards",8
-"theme3","Pediatric Growth & Nutrition","CA","Pregnancy","Funding",2.396347
+"theme3","Pediatric Growth & Nutrition","CA","Pregnancy","Awards",9
+"theme3","Pediatric Growth & Nutrition","CA","Pregnancy","Funding",2.834722
 "theme3","Pediatric Growth & Nutrition","CO","Pregnancy","Awards",2
 "theme3","Pediatric Growth & Nutrition","CO","Pregnancy","Funding",0.872627
 "theme3","Pediatric Growth & Nutrition","CT","Pregnancy","Awards",1
@@ -1115,12 +1127,12 @@
 "theme3","Pediatric Growth & Nutrition","DE","Pregnancy","Funding",0.337817
 "theme3","Pediatric Growth & Nutrition","GA","Pregnancy","Awards",1
 "theme3","Pediatric Growth & Nutrition","GA","Pregnancy","Funding",0.24897
-"theme3","Pediatric Growth & Nutrition","IL","Pregnancy","Awards",3
-"theme3","Pediatric Growth & Nutrition","IL","Pregnancy","Funding",2.502898
+"theme3","Pediatric Growth & Nutrition","IL","Pregnancy","Awards",4
+"theme3","Pediatric Growth & Nutrition","IL","Pregnancy","Funding",3.009757
 "theme3","Pediatric Growth & Nutrition","KY","Pregnancy","Awards",1
 "theme3","Pediatric Growth & Nutrition","KY","Pregnancy","Funding",0.614573
-"theme3","Pediatric Growth & Nutrition","MA","Pregnancy","Awards",8
-"theme3","Pediatric Growth & Nutrition","MA","Pregnancy","Funding",2.474484
+"theme3","Pediatric Growth & Nutrition","MA","Pregnancy","Awards",9
+"theme3","Pediatric Growth & Nutrition","MA","Pregnancy","Funding",3.647248
 "theme3","Pediatric Growth & Nutrition","MB","Pregnancy","Awards",1
 "theme3","Pediatric Growth & Nutrition","MB","Pregnancy","Funding",0.545085
 "theme3","Pediatric Growth & Nutrition","MD","Pregnancy","Awards",2
@@ -1129,6 +1141,8 @@
 "theme3","Pediatric Growth & Nutrition","MI","Pregnancy","Funding",0.373358
 "theme3","Pediatric Growth & Nutrition","MN","Pregnancy","Awards",4
 "theme3","Pediatric Growth & Nutrition","MN","Pregnancy","Funding",2.267316
+"theme3","Pediatric Growth & Nutrition","MO","Pregnancy","Awards",1
+"theme3","Pediatric Growth & Nutrition","MO","Pregnancy","Funding",0.125142
 "theme3","Pediatric Growth & Nutrition","NC","Pregnancy","Awards",1
 "theme3","Pediatric Growth & Nutrition","NC","Pregnancy","Funding",0.30949
 "theme3","Pediatric Growth & Nutrition","NY","Pregnancy","Awards",3
@@ -1155,8 +1169,8 @@
 "theme3","Pediatric Trauma & Critical Care","NC","Pregnancy","Funding",0.187606
 "theme3","Population Dynamics","AZ","Pregnancy","Awards",2
 "theme3","Population Dynamics","AZ","Pregnancy","Funding",1.189627
-"theme3","Population Dynamics","CA","Pregnancy","Awards",15
-"theme3","Population Dynamics","CA","Pregnancy","Funding",5.250351
+"theme3","Population Dynamics","CA","Pregnancy","Awards",16
+"theme3","Population Dynamics","CA","Pregnancy","Funding",5.303465
 "theme3","Population Dynamics","FL","Pregnancy","Awards",1
 "theme3","Population Dynamics","FL","Pregnancy","Funding",0.540915
 "theme3","Population Dynamics","GA","Pregnancy","Awards",3
@@ -1203,8 +1217,8 @@
 "theme3","Population Dynamics","WA","Pregnancy","Funding",0.049538
 "theme3","Population Dynamics","WI","Pregnancy","Awards",1
 "theme3","Population Dynamics","WI","Pregnancy","Funding",0.286844
-"theme3","Pregnancy & Perinatology","AL","Pregnancy","Awards",4
-"theme3","Pregnancy & Perinatology","AL","Pregnancy","Funding",1.338826
+"theme3","Pregnancy & Perinatology","AL","Pregnancy","Awards",5
+"theme3","Pregnancy & Perinatology","AL","Pregnancy","Funding",2.785703
 "theme3","Pregnancy & Perinatology","AR","Pregnancy","Awards",3
 "theme3","Pregnancy & Perinatology","AR","Pregnancy","Funding",2.065618
 "theme3","Pregnancy & Perinatology","AZ","Pregnancy","Awards",3
@@ -1223,12 +1237,12 @@
 "theme3","Pregnancy & Perinatology","FL","Pregnancy","Funding",0.401
 "theme3","Pregnancy & Perinatology","GA","Pregnancy","Awards",5
 "theme3","Pregnancy & Perinatology","GA","Pregnancy","Funding",2.190236
-"theme3","Pregnancy & Perinatology","IL","Pregnancy","Awards",6
-"theme3","Pregnancy & Perinatology","IL","Pregnancy","Funding",2.745618
+"theme3","Pregnancy & Perinatology","IL","Pregnancy","Awards",7
+"theme3","Pregnancy & Perinatology","IL","Pregnancy","Funding",3.399251
 "theme3","Pregnancy & Perinatology","IN","Pregnancy","Awards",2
 "theme3","Pregnancy & Perinatology","IN","Pregnancy","Funding",0.775291
-"theme3","Pregnancy & Perinatology","KS","Pregnancy","Awards",7
-"theme3","Pregnancy & Perinatology","KS","Pregnancy","Funding",2.624136
+"theme3","Pregnancy & Perinatology","KS","Pregnancy","Awards",8
+"theme3","Pregnancy & Perinatology","KS","Pregnancy","Funding",3.149406
 "theme3","Pregnancy & Perinatology","LA","Pregnancy","Awards",1
 "theme3","Pregnancy & Perinatology","LA","Pregnancy","Funding",0.124038
 "theme3","Pregnancy & Perinatology","MA","Pregnancy","Awards",38
@@ -1237,22 +1251,22 @@
 "theme3","Pregnancy & Perinatology","MD","Pregnancy","Funding",6.201652
 "theme3","Pregnancy & Perinatology","MI","Pregnancy","Awards",11
 "theme3","Pregnancy & Perinatology","MI","Pregnancy","Funding",4.892208
-"theme3","Pregnancy & Perinatology","MN","Pregnancy","Awards",5
-"theme3","Pregnancy & Perinatology","MN","Pregnancy","Funding",2.443393
-"theme3","Pregnancy & Perinatology","MO","Pregnancy","Awards",12
-"theme3","Pregnancy & Perinatology","MO","Pregnancy","Funding",6.182232
+"theme3","Pregnancy & Perinatology","MN","Pregnancy","Awards",6
+"theme3","Pregnancy & Perinatology","MN","Pregnancy","Funding",2.481284
+"theme3","Pregnancy & Perinatology","MO","Pregnancy","Awards",14
+"theme3","Pregnancy & Perinatology","MO","Pregnancy","Funding",7.167916
 "theme3","Pregnancy & Perinatology","MS","Pregnancy","Awards",1
 "theme3","Pregnancy & Perinatology","MS","Pregnancy","Funding",0.07678
-"theme3","Pregnancy & Perinatology","NC","Pregnancy","Awards",16
-"theme3","Pregnancy & Perinatology","NC","Pregnancy","Funding",8.664011
+"theme3","Pregnancy & Perinatology","NC","Pregnancy","Awards",17
+"theme3","Pregnancy & Perinatology","NC","Pregnancy","Funding",9.490533
 "theme3","Pregnancy & Perinatology","NJ","Pregnancy","Awards",5
 "theme3","Pregnancy & Perinatology","NJ","Pregnancy","Funding",2.26192
 "theme3","Pregnancy & Perinatology","NM","Pregnancy","Awards",1
 "theme3","Pregnancy & Perinatology","NM","Pregnancy","Funding",0.01
 "theme3","Pregnancy & Perinatology","NV","Pregnancy","Awards",1
 "theme3","Pregnancy & Perinatology","NV","Pregnancy","Funding",0.318583
-"theme3","Pregnancy & Perinatology","NY","Pregnancy","Awards",21
-"theme3","Pregnancy & Perinatology","NY","Pregnancy","Funding",10.403688
+"theme3","Pregnancy & Perinatology","NY","Pregnancy","Awards",22
+"theme3","Pregnancy & Perinatology","NY","Pregnancy","Funding",11.130758
 "theme3","Pregnancy & Perinatology","OH","Pregnancy","Awards",9
 "theme3","Pregnancy & Perinatology","OH","Pregnancy","Funding",3.687541
 "theme3","Pregnancy & Perinatology","OK","Pregnancy","Awards",3
@@ -1265,8 +1279,8 @@
 "theme3","Pregnancy & Perinatology","PA","Pregnancy","Funding",15.280187
 "theme3","Pregnancy & Perinatology","RI","Pregnancy","Awards",9
 "theme3","Pregnancy & Perinatology","RI","Pregnancy","Funding",3.669096
-"theme3","Pregnancy & Perinatology","SC","Pregnancy","Awards",2
-"theme3","Pregnancy & Perinatology","SC","Pregnancy","Funding",0.164377
+"theme3","Pregnancy & Perinatology","SC","Pregnancy","Awards",3
+"theme3","Pregnancy & Perinatology","SC","Pregnancy","Funding",0.347545
 "theme3","Pregnancy & Perinatology","SD","Pregnancy","Awards",1
 "theme3","Pregnancy & Perinatology","SD","Pregnancy","Funding",1.469241
 "theme3","Pregnancy & Perinatology","TN","Pregnancy","Awards",1
@@ -1279,8 +1293,8 @@
 "theme3","Pregnancy & Perinatology","VA","Pregnancy","Funding",3.294618
 "theme3","Pregnancy & Perinatology","WA","Pregnancy","Awards",14
 "theme3","Pregnancy & Perinatology","WA","Pregnancy","Funding",7.957914
-"theme3","Pregnancy & Perinatology","WI","Pregnancy","Awards",6
-"theme3","Pregnancy & Perinatology","WI","Pregnancy","Funding",2.922629
+"theme3","Pregnancy & Perinatology","WI","Pregnancy","Awards",7
+"theme3","Pregnancy & Perinatology","WI","Pregnancy","Funding",3.48252
 "theme3","Pregnancy & Perinatology","WV","Pregnancy","Awards",1
 "theme3","Pregnancy & Perinatology","WV","Pregnancy","Funding",0.456
 "theme3","Pregnancy & Perinatology","ZZ","Pregnancy","Awards",2
@@ -1289,30 +1303,30 @@
 "theme4","Child Development & Behavior","AR","Pediatrics","Funding",0.602161
 "theme4","Child Development & Behavior","AZ","Pediatrics","Awards",6
 "theme4","Child Development & Behavior","AZ","Pediatrics","Funding",3.639577
-"theme4","Child Development & Behavior","CA","Pediatrics","Awards",40
-"theme4","Child Development & Behavior","CA","Pediatrics","Funding",16.868344
+"theme4","Child Development & Behavior","CA","Pediatrics","Awards",43
+"theme4","Child Development & Behavior","CA","Pediatrics","Funding",17.75963
 "theme4","Child Development & Behavior","CO","Pediatrics","Awards",5
 "theme4","Child Development & Behavior","CO","Pediatrics","Funding",3.834453
 "theme4","Child Development & Behavior","CT","Pediatrics","Awards",7
 "theme4","Child Development & Behavior","CT","Pediatrics","Funding",3.313135
 "theme4","Child Development & Behavior","DC","Pediatrics","Awards",3
 "theme4","Child Development & Behavior","DC","Pediatrics","Funding",1.350899
-"theme4","Child Development & Behavior","FL","Pediatrics","Awards",10
-"theme4","Child Development & Behavior","FL","Pediatrics","Funding",6.332004
+"theme4","Child Development & Behavior","FL","Pediatrics","Awards",11
+"theme4","Child Development & Behavior","FL","Pediatrics","Funding",6.956948
 "theme4","Child Development & Behavior","GA","Pediatrics","Awards",7
 "theme4","Child Development & Behavior","GA","Pediatrics","Funding",2.523201
 "theme4","Child Development & Behavior","IA","Pediatrics","Awards",5
 "theme4","Child Development & Behavior","IA","Pediatrics","Funding",1.999167
-"theme4","Child Development & Behavior","IL","Pediatrics","Awards",6
-"theme4","Child Development & Behavior","IL","Pediatrics","Funding",2.132666
-"theme4","Child Development & Behavior","IN","Pediatrics","Awards",3
-"theme4","Child Development & Behavior","IN","Pediatrics","Funding",0.890151
+"theme4","Child Development & Behavior","IL","Pediatrics","Awards",8
+"theme4","Child Development & Behavior","IL","Pediatrics","Funding",2.912209
+"theme4","Child Development & Behavior","IN","Pediatrics","Awards",4
+"theme4","Child Development & Behavior","IN","Pediatrics","Funding",1.276526
 "theme4","Child Development & Behavior","KS","Pediatrics","Awards",6
 "theme4","Child Development & Behavior","KS","Pediatrics","Funding",3.11058
 "theme4","Child Development & Behavior","LA","Pediatrics","Awards",2
 "theme4","Child Development & Behavior","LA","Pediatrics","Funding",0.845078
-"theme4","Child Development & Behavior","MA","Pediatrics","Awards",25
-"theme4","Child Development & Behavior","MA","Pediatrics","Funding",9.591278
+"theme4","Child Development & Behavior","MA","Pediatrics","Awards",26
+"theme4","Child Development & Behavior","MA","Pediatrics","Funding",10.355311
 "theme4","Child Development & Behavior","MD","Pediatrics","Awards",11
 "theme4","Child Development & Behavior","MD","Pediatrics","Funding",2.885139
 "theme4","Child Development & Behavior","MI","Pediatrics","Awards",14
@@ -1321,8 +1335,8 @@
 "theme4","Child Development & Behavior","MN","Pediatrics","Funding",0.644694
 "theme4","Child Development & Behavior","MO","Pediatrics","Awards",8
 "theme4","Child Development & Behavior","MO","Pediatrics","Funding",2.400911
-"theme4","Child Development & Behavior","NC","Pediatrics","Awards",11
-"theme4","Child Development & Behavior","NC","Pediatrics","Funding",5.300765
+"theme4","Child Development & Behavior","NC","Pediatrics","Awards",12
+"theme4","Child Development & Behavior","NC","Pediatrics","Funding",5.316765
 "theme4","Child Development & Behavior","ND","Pediatrics","Awards",1
 "theme4","Child Development & Behavior","ND","Pediatrics","Funding",0.434929
 "theme4","Child Development & Behavior","NE","Pediatrics","Awards",2
@@ -1337,16 +1351,16 @@
 "theme4","Child Development & Behavior","OK","Pediatrics","Funding",0.892117
 "theme4","Child Development & Behavior","OR","Pediatrics","Awards",4
 "theme4","Child Development & Behavior","OR","Pediatrics","Funding",2.171333
-"theme4","Child Development & Behavior","PA","Pediatrics","Awards",22
-"theme4","Child Development & Behavior","PA","Pediatrics","Funding",11.368037
+"theme4","Child Development & Behavior","PA","Pediatrics","Awards",23
+"theme4","Child Development & Behavior","PA","Pediatrics","Funding",11.85496
 "theme4","Child Development & Behavior","RI","Pediatrics","Awards",4
 "theme4","Child Development & Behavior","RI","Pediatrics","Funding",1.494908
 "theme4","Child Development & Behavior","SC","Pediatrics","Awards",11
 "theme4","Child Development & Behavior","SC","Pediatrics","Funding",3.942071
-"theme4","Child Development & Behavior","TN","Pediatrics","Awards",11
-"theme4","Child Development & Behavior","TN","Pediatrics","Funding",4.762508
-"theme4","Child Development & Behavior","TX","Pediatrics","Awards",12
-"theme4","Child Development & Behavior","TX","Pediatrics","Funding",4.450884
+"theme4","Child Development & Behavior","TN","Pediatrics","Awards",12
+"theme4","Child Development & Behavior","TN","Pediatrics","Funding",4.812622
+"theme4","Child Development & Behavior","TX","Pediatrics","Awards",13
+"theme4","Child Development & Behavior","TX","Pediatrics","Funding",5.04862
 "theme4","Child Development & Behavior","VA","Pediatrics","Awards",6
 "theme4","Child Development & Behavior","VA","Pediatrics","Funding",2.889949
 "theme4","Child Development & Behavior","WA","Pediatrics","Awards",6
@@ -1361,6 +1375,8 @@
 "theme4","Dev. Biology & Congenital Anomalies","MO","Pediatrics","Funding",0.559994
 "theme4","Dev. Biology & Congenital Anomalies","NY","Pediatrics","Awards",1
 "theme4","Dev. Biology & Congenital Anomalies","NY","Pediatrics","Funding",0.161579
+"theme4","Dev. Biology & Congenital Anomalies","OH","Pediatrics","Awards",1
+"theme4","Dev. Biology & Congenital Anomalies","OH","Pediatrics","Funding",1.598939
 "theme4","Dev. Biology & Congenital Anomalies","PA","Pediatrics","Awards",5
 "theme4","Dev. Biology & Congenital Anomalies","PA","Pediatrics","Funding",12.43332
 "theme4","Fertility & Infertility","CO","Pediatrics","Awards",1
@@ -1403,8 +1419,8 @@
 "theme4","Intellectual & Developmental Disabilities","AZ","Pediatrics","Funding",0.751734
 "theme4","Intellectual & Developmental Disabilities","CA","Pediatrics","Awards",33
 "theme4","Intellectual & Developmental Disabilities","CA","Pediatrics","Funding",17.436429
-"theme4","Intellectual & Developmental Disabilities","CO","Pediatrics","Awards",10
-"theme4","Intellectual & Developmental Disabilities","CO","Pediatrics","Funding",6.803185
+"theme4","Intellectual & Developmental Disabilities","CO","Pediatrics","Awards",11
+"theme4","Intellectual & Developmental Disabilities","CO","Pediatrics","Funding",7.195688
 "theme4","Intellectual & Developmental Disabilities","CT","Pediatrics","Awards",1
 "theme4","Intellectual & Developmental Disabilities","CT","Pediatrics","Funding",0.208125
 "theme4","Intellectual & Developmental Disabilities","DC","Pediatrics","Awards",4
@@ -1415,16 +1431,16 @@
 "theme4","Intellectual & Developmental Disabilities","GA","Pediatrics","Funding",1.441124
 "theme4","Intellectual & Developmental Disabilities","IA","Pediatrics","Awards",2
 "theme4","Intellectual & Developmental Disabilities","IA","Pediatrics","Funding",1.923586
-"theme4","Intellectual & Developmental Disabilities","IL","Pediatrics","Awards",4
-"theme4","Intellectual & Developmental Disabilities","IL","Pediatrics","Funding",1.301229
+"theme4","Intellectual & Developmental Disabilities","IL","Pediatrics","Awards",5
+"theme4","Intellectual & Developmental Disabilities","IL","Pediatrics","Funding",1.705665
 "theme4","Intellectual & Developmental Disabilities","IN","Pediatrics","Awards",2
 "theme4","Intellectual & Developmental Disabilities","IN","Pediatrics","Funding",1.959022
 "theme4","Intellectual & Developmental Disabilities","KS","Pediatrics","Awards",4
 "theme4","Intellectual & Developmental Disabilities","KS","Pediatrics","Funding",1.69164
 "theme4","Intellectual & Developmental Disabilities","KY","Pediatrics","Awards",1
 "theme4","Intellectual & Developmental Disabilities","KY","Pediatrics","Funding",0.1925
-"theme4","Intellectual & Developmental Disabilities","MA","Pediatrics","Awards",16
-"theme4","Intellectual & Developmental Disabilities","MA","Pediatrics","Funding",5.770003
+"theme4","Intellectual & Developmental Disabilities","MA","Pediatrics","Awards",17
+"theme4","Intellectual & Developmental Disabilities","MA","Pediatrics","Funding",6.474551
 "theme4","Intellectual & Developmental Disabilities","MD","Pediatrics","Awards",6
 "theme4","Intellectual & Developmental Disabilities","MD","Pediatrics","Funding",4.86142
 "theme4","Intellectual & Developmental Disabilities","ME","Pediatrics","Awards",1
@@ -1437,8 +1453,8 @@
 "theme4","Intellectual & Developmental Disabilities","MO","Pediatrics","Funding",3.772118
 "theme4","Intellectual & Developmental Disabilities","NC","Pediatrics","Awards",17
 "theme4","Intellectual & Developmental Disabilities","NC","Pediatrics","Funding",10.31834
-"theme4","Intellectual & Developmental Disabilities","NJ","Pediatrics","Awards",4
-"theme4","Intellectual & Developmental Disabilities","NJ","Pediatrics","Funding",1.402671
+"theme4","Intellectual & Developmental Disabilities","NJ","Pediatrics","Awards",5
+"theme4","Intellectual & Developmental Disabilities","NJ","Pediatrics","Funding",2.149671
 "theme4","Intellectual & Developmental Disabilities","NY","Pediatrics","Awards",14
 "theme4","Intellectual & Developmental Disabilities","NY","Pediatrics","Funding",9.939254
 "theme4","Intellectual & Developmental Disabilities","OH","Pediatrics","Awards",11
@@ -1489,10 +1505,10 @@
 "theme4","Matern. & Ped. Infectious Diseases","IN","Pediatrics","Funding",1.927507
 "theme4","Matern. & Ped. Infectious Diseases","LA","Pediatrics","Awards",1
 "theme4","Matern. & Ped. Infectious Diseases","LA","Pediatrics","Funding",0.708809
-"theme4","Matern. & Ped. Infectious Diseases","MA","Pediatrics","Awards",26
-"theme4","Matern. & Ped. Infectious Diseases","MA","Pediatrics","Funding",36.45888
-"theme4","Matern. & Ped. Infectious Diseases","MD","Pediatrics","Awards",15
-"theme4","Matern. & Ped. Infectious Diseases","MD","Pediatrics","Funding",12.480642
+"theme4","Matern. & Ped. Infectious Diseases","MA","Pediatrics","Awards",27
+"theme4","Matern. & Ped. Infectious Diseases","MA","Pediatrics","Funding",36.497176
+"theme4","Matern. & Ped. Infectious Diseases","MD","Pediatrics","Awards",16
+"theme4","Matern. & Ped. Infectious Diseases","MD","Pediatrics","Funding",12.694484
 "theme4","Matern. & Ped. Infectious Diseases","MN","Pediatrics","Awards",1
 "theme4","Matern. & Ped. Infectious Diseases","MN","Pediatrics","Funding",0.539
 "theme4","Matern. & Ped. Infectious Diseases","MO","Pediatrics","Awards",8
@@ -1517,8 +1533,8 @@
 "theme4","Matern. & Ped. Infectious Diseases","UT","Pediatrics","Funding",0.485605
 "theme4","Matern. & Ped. Infectious Diseases","VT","Pediatrics","Awards",1
 "theme4","Matern. & Ped. Infectious Diseases","VT","Pediatrics","Funding",0.522539
-"theme4","Matern. & Ped. Infectious Diseases","WA","Pediatrics","Awards",17
-"theme4","Matern. & Ped. Infectious Diseases","WA","Pediatrics","Funding",15.888062
+"theme4","Matern. & Ped. Infectious Diseases","WA","Pediatrics","Awards",18
+"theme4","Matern. & Ped. Infectious Diseases","WA","Pediatrics","Funding",16.308379
 "theme4","Matern. & Ped. Infectious Diseases","ZZ","Pediatrics","Awards",13
 "theme4","Matern. & Ped. Infectious Diseases","ZZ","Pediatrics","Funding",4.088085
 "theme4","Natl. Ctr. for Med. Rehabilitation Res.","AL","Pediatrics","Awards",1
@@ -1526,7 +1542,7 @@
 "theme4","Natl. Ctr. for Med. Rehabilitation Res.","AZ","Pediatrics","Awards",1
 "theme4","Natl. Ctr. for Med. Rehabilitation Res.","AZ","Pediatrics","Funding",0.412402
 "theme4","Natl. Ctr. for Med. Rehabilitation Res.","CA","Pediatrics","Awards",4
-"theme4","Natl. Ctr. for Med. Rehabilitation Res.","CA","Pediatrics","Funding",1.617128
+"theme4","Natl. Ctr. for Med. Rehabilitation Res.","CA","Pediatrics","Funding",1.631172
 "theme4","Natl. Ctr. for Med. Rehabilitation Res.","CO","Pediatrics","Awards",1
 "theme4","Natl. Ctr. for Med. Rehabilitation Res.","CO","Pediatrics","Funding",0.3465
 "theme4","Natl. Ctr. for Med. Rehabilitation Res.","CT","Pediatrics","Awards",1
@@ -1553,12 +1569,12 @@
 "theme4","Natl. Ctr. for Med. Rehabilitation Res.","NE","Pediatrics","Funding",1.771972
 "theme4","Natl. Ctr. for Med. Rehabilitation Res.","NY","Pediatrics","Awards",2
 "theme4","Natl. Ctr. for Med. Rehabilitation Res.","NY","Pediatrics","Funding",0.821202
-"theme4","Natl. Ctr. for Med. Rehabilitation Res.","OH","Pediatrics","Awards",5
-"theme4","Natl. Ctr. for Med. Rehabilitation Res.","OH","Pediatrics","Funding",1.10626
+"theme4","Natl. Ctr. for Med. Rehabilitation Res.","OH","Pediatrics","Awards",7
+"theme4","Natl. Ctr. for Med. Rehabilitation Res.","OH","Pediatrics","Funding",2.171199
 "theme4","Natl. Ctr. for Med. Rehabilitation Res.","OR","Pediatrics","Awards",1
 "theme4","Natl. Ctr. for Med. Rehabilitation Res.","OR","Pediatrics","Funding",0.168703
-"theme4","Natl. Ctr. for Med. Rehabilitation Res.","PA","Pediatrics","Awards",1
-"theme4","Natl. Ctr. for Med. Rehabilitation Res.","PA","Pediatrics","Funding",0.598468
+"theme4","Natl. Ctr. for Med. Rehabilitation Res.","PA","Pediatrics","Awards",2
+"theme4","Natl. Ctr. for Med. Rehabilitation Res.","PA","Pediatrics","Funding",0.761646
 "theme4","Natl. Ctr. for Med. Rehabilitation Res.","TX","Pediatrics","Awards",2
 "theme4","Natl. Ctr. for Med. Rehabilitation Res.","TX","Pediatrics","Funding",1.183364
 "theme4","Natl. Ctr. for Med. Rehabilitation Res.","VA","Pediatrics","Awards",1
@@ -1575,8 +1591,8 @@
 "theme4","Obstet. & Ped. Pharmacol. & Therap.","CO","Pediatrics","Funding",0.808914
 "theme4","Obstet. & Ped. Pharmacol. & Therap.","CT","Pediatrics","Awards",2
 "theme4","Obstet. & Ped. Pharmacol. & Therap.","CT","Pediatrics","Funding",0.65159
-"theme4","Obstet. & Ped. Pharmacol. & Therap.","DC","Pediatrics","Awards",1
-"theme4","Obstet. & Ped. Pharmacol. & Therap.","DC","Pediatrics","Funding",0.629045
+"theme4","Obstet. & Ped. Pharmacol. & Therap.","DC","Pediatrics","Awards",2
+"theme4","Obstet. & Ped. Pharmacol. & Therap.","DC","Pediatrics","Funding",0.639045
 "theme4","Obstet. & Ped. Pharmacol. & Therap.","FL","Pediatrics","Awards",1
 "theme4","Obstet. & Ped. Pharmacol. & Therap.","FL","Pediatrics","Funding",0.1525
 "theme4","Obstet. & Ped. Pharmacol. & Therap.","IL","Pediatrics","Awards",1
@@ -1635,16 +1651,16 @@
 "theme4","Pediatric Growth & Nutrition","HI","Pediatrics","Funding",0.623728
 "theme4","Pediatric Growth & Nutrition","IA","Pediatrics","Awards",1
 "theme4","Pediatric Growth & Nutrition","IA","Pediatrics","Funding",0.444503
-"theme4","Pediatric Growth & Nutrition","IL","Pediatrics","Awards",1
-"theme4","Pediatric Growth & Nutrition","IL","Pediatrics","Funding",0.570615
+"theme4","Pediatric Growth & Nutrition","IL","Pediatrics","Awards",2
+"theme4","Pediatric Growth & Nutrition","IL","Pediatrics","Funding",1.077474
 "theme4","Pediatric Growth & Nutrition","IN","Pediatrics","Awards",2
 "theme4","Pediatric Growth & Nutrition","IN","Pediatrics","Funding",0.325214
 "theme4","Pediatric Growth & Nutrition","KY","Pediatrics","Awards",1
 "theme4","Pediatric Growth & Nutrition","KY","Pediatrics","Funding",0.614573
 "theme4","Pediatric Growth & Nutrition","LA","Pediatrics","Awards",1
 "theme4","Pediatric Growth & Nutrition","LA","Pediatrics","Funding",0.079348
-"theme4","Pediatric Growth & Nutrition","MA","Pediatrics","Awards",13
-"theme4","Pediatric Growth & Nutrition","MA","Pediatrics","Funding",5.831176
+"theme4","Pediatric Growth & Nutrition","MA","Pediatrics","Awards",14
+"theme4","Pediatric Growth & Nutrition","MA","Pediatrics","Funding",7.00394
 "theme4","Pediatric Growth & Nutrition","MB","Pediatrics","Awards",1
 "theme4","Pediatric Growth & Nutrition","MB","Pediatrics","Funding",0.545085
 "theme4","Pediatric Growth & Nutrition","MD","Pediatrics","Awards",2
@@ -1655,8 +1671,8 @@
 "theme4","Pediatric Growth & Nutrition","MN","Pediatrics","Funding",2.420244
 "theme4","Pediatric Growth & Nutrition","MO","Pediatrics","Awards",2
 "theme4","Pediatric Growth & Nutrition","MO","Pediatrics","Funding",0.767056
-"theme4","Pediatric Growth & Nutrition","NC","Pediatrics","Awards",4
-"theme4","Pediatric Growth & Nutrition","NC","Pediatrics","Funding",0.725263
+"theme4","Pediatric Growth & Nutrition","NC","Pediatrics","Awards",5
+"theme4","Pediatric Growth & Nutrition","NC","Pediatrics","Funding",0.79685
 "theme4","Pediatric Growth & Nutrition","NJ","Pediatrics","Awards",6
 "theme4","Pediatric Growth & Nutrition","NJ","Pediatrics","Funding",1.275695
 "theme4","Pediatric Growth & Nutrition","NY","Pediatrics","Awards",6
@@ -1745,8 +1761,8 @@
 "theme4","Pediatric Trauma & Critical Care","WV","Pediatrics","Funding",0.368676
 "theme4","Population Dynamics","AZ","Pediatrics","Awards",3
 "theme4","Population Dynamics","AZ","Pediatrics","Funding",1.630203
-"theme4","Population Dynamics","CA","Pediatrics","Awards",20
-"theme4","Population Dynamics","CA","Pediatrics","Funding",8.140421
+"theme4","Population Dynamics","CA","Pediatrics","Awards",21
+"theme4","Population Dynamics","CA","Pediatrics","Funding",8.193535
 "theme4","Population Dynamics","CO","Pediatrics","Awards",4
 "theme4","Population Dynamics","CO","Pediatrics","Funding",3.023994
 "theme4","Population Dynamics","CT","Pediatrics","Awards",1
@@ -1767,20 +1783,20 @@
 "theme4","Population Dynamics","MA","Pediatrics","Funding",4.315333
 "theme4","Population Dynamics","MD","Pediatrics","Awards",15
 "theme4","Population Dynamics","MD","Pediatrics","Funding",5.078367
-"theme4","Population Dynamics","MI","Pediatrics","Awards",15
-"theme4","Population Dynamics","MI","Pediatrics","Funding",9.10147
+"theme4","Population Dynamics","MI","Pediatrics","Awards",16
+"theme4","Population Dynamics","MI","Pediatrics","Funding",9.769195
 "theme4","Population Dynamics","MN","Pediatrics","Awards",6
 "theme4","Population Dynamics","MN","Pediatrics","Funding",2.729843
-"theme4","Population Dynamics","MO","Pediatrics","Awards",3
-"theme4","Population Dynamics","MO","Pediatrics","Funding",1.020819
+"theme4","Population Dynamics","MO","Pediatrics","Awards",4
+"theme4","Population Dynamics","MO","Pediatrics","Funding",1.560621
 "theme4","Population Dynamics","NC","Pediatrics","Awards",16
 "theme4","Population Dynamics","NC","Pediatrics","Funding",5.184254
 "theme4","Population Dynamics","NJ","Pediatrics","Awards",4
 "theme4","Population Dynamics","NJ","Pediatrics","Funding",4.072601
 "theme4","Population Dynamics","NV","Pediatrics","Awards",3
 "theme4","Population Dynamics","NV","Pediatrics","Funding",0.975202
-"theme4","Population Dynamics","NY","Pediatrics","Awards",8
-"theme4","Population Dynamics","NY","Pediatrics","Funding",2.853257
+"theme4","Population Dynamics","NY","Pediatrics","Awards",9
+"theme4","Population Dynamics","NY","Pediatrics","Funding",2.98367
 "theme4","Population Dynamics","OH","Pediatrics","Awards",4
 "theme4","Population Dynamics","OH","Pediatrics","Funding",1.814208
 "theme4","Population Dynamics","PA","Pediatrics","Awards",21
@@ -1795,14 +1811,14 @@
 "theme4","Population Dynamics","TX","Pediatrics","Funding",2.11193
 "theme4","Population Dynamics","UT","Pediatrics","Awards",1
 "theme4","Population Dynamics","UT","Pediatrics","Funding",0.167068
-"theme4","Population Dynamics","WA","Pediatrics","Awards",3
-"theme4","Population Dynamics","WA","Pediatrics","Funding",0.866451
+"theme4","Population Dynamics","WA","Pediatrics","Awards",4
+"theme4","Population Dynamics","WA","Pediatrics","Funding",1.17761
 "theme4","Population Dynamics","WI","Pediatrics","Awards",10
 "theme4","Population Dynamics","WI","Pediatrics","Funding",3.845243
 "theme4","Population Dynamics","WV","Pediatrics","Awards",1
 "theme4","Population Dynamics","WV","Pediatrics","Funding",0.15984
-"theme4","Pregnancy & Perinatology","AL","Pediatrics","Awards",7
-"theme4","Pregnancy & Perinatology","AL","Pediatrics","Funding",2.549491
+"theme4","Pregnancy & Perinatology","AL","Pediatrics","Awards",8
+"theme4","Pregnancy & Perinatology","AL","Pediatrics","Funding",3.996368
 "theme4","Pregnancy & Perinatology","AR","Pediatrics","Awards",3
 "theme4","Pregnancy & Perinatology","AR","Pediatrics","Funding",0.763587
 "theme4","Pregnancy & Perinatology","CA","Pediatrics","Awards",22
@@ -1927,6 +1943,8 @@
 "theme5","Gynecologic Health & Disease","MI","Pharmacology","Funding",0.756675
 "theme5","Gynecologic Health & Disease","MO","Pharmacology","Awards",2
 "theme5","Gynecologic Health & Disease","MO","Pharmacology","Funding",1.137657
+"theme5","Gynecologic Health & Disease","NY","Pharmacology","Awards",1
+"theme5","Gynecologic Health & Disease","NY","Pharmacology","Funding",0.564599
 "theme5","Gynecologic Health & Disease","OR","Pharmacology","Awards",3
 "theme5","Gynecologic Health & Disease","OR","Pharmacology","Funding",1.54134
 "theme5","Gynecologic Health & Disease","PA","Pharmacology","Awards",1
@@ -1947,8 +1965,8 @@
 "theme5","Intellectual & Developmental Disabilities","CO","Pharmacology","Funding",1.224805
 "theme5","Intellectual & Developmental Disabilities","DC","Pharmacology","Awards",1
 "theme5","Intellectual & Developmental Disabilities","DC","Pharmacology","Funding",0.160282
-"theme5","Intellectual & Developmental Disabilities","FL","Pharmacology","Awards",1
-"theme5","Intellectual & Developmental Disabilities","FL","Pharmacology","Funding",1.347536
+"theme5","Intellectual & Developmental Disabilities","FL","Pharmacology","Awards",2
+"theme5","Intellectual & Developmental Disabilities","FL","Pharmacology","Funding",1.766911
 "theme5","Intellectual & Developmental Disabilities","KS","Pharmacology","Awards",1
 "theme5","Intellectual & Developmental Disabilities","KS","Pharmacology","Funding",0.243934
 "theme5","Intellectual & Developmental Disabilities","MA","Pharmacology","Awards",2
@@ -1975,8 +1993,10 @@
 "theme5","Matern. & Ped. Infectious Diseases","IN","Pharmacology","Funding",0.735505
 "theme5","Matern. & Ped. Infectious Diseases","MA","Pharmacology","Awards",3
 "theme5","Matern. & Ped. Infectious Diseases","MA","Pharmacology","Funding",1.740783
-"theme5","Matern. & Ped. Infectious Diseases","MD","Pharmacology","Awards",4
-"theme5","Matern. & Ped. Infectious Diseases","MD","Pharmacology","Funding",0.645567
+"theme5","Matern. & Ped. Infectious Diseases","MD","Pharmacology","Awards",5
+"theme5","Matern. & Ped. Infectious Diseases","MD","Pharmacology","Funding",0.859409
+"theme5","Matern. & Ped. Infectious Diseases","MN","Pharmacology","Awards",1
+"theme5","Matern. & Ped. Infectious Diseases","MN","Pharmacology","Funding",0.677303
 "theme5","Matern. & Ped. Infectious Diseases","NE","Pharmacology","Awards",2
 "theme5","Matern. & Ped. Infectious Diseases","NE","Pharmacology","Funding",0.98943
 "theme5","Matern. & Ped. Infectious Diseases","NY","Pharmacology","Awards",1
@@ -1989,8 +2009,8 @@
 "theme5","Matern. & Ped. Infectious Diseases","TX","Pharmacology","Funding",0.48
 "theme5","Matern. & Ped. Infectious Diseases","UT","Pharmacology","Awards",2
 "theme5","Matern. & Ped. Infectious Diseases","UT","Pharmacology","Funding",0.274876
-"theme5","Matern. & Ped. Infectious Diseases","WA","Pharmacology","Awards",6
-"theme5","Matern. & Ped. Infectious Diseases","WA","Pharmacology","Funding",2.649673
+"theme5","Matern. & Ped. Infectious Diseases","WA","Pharmacology","Awards",8
+"theme5","Matern. & Ped. Infectious Diseases","WA","Pharmacology","Funding",3.701579
 "theme5","Matern. & Ped. Infectious Diseases","ZZ","Pharmacology","Awards",2
 "theme5","Matern. & Ped. Infectious Diseases","ZZ","Pharmacology","Funding",1.22159
 "theme5","Natl. Ctr. for Med. Rehabilitation Res.","CA","Pharmacology","Awards",1
@@ -2053,8 +2073,10 @@
 "theme5","Pediatric Growth & Nutrition","CA","Pharmacology","Funding",0.723935
 "theme5","Pediatric Growth & Nutrition","LA","Pharmacology","Awards",2
 "theme5","Pediatric Growth & Nutrition","LA","Pharmacology","Funding",2.546605
-"theme5","Pediatric Growth & Nutrition","MA","Pharmacology","Awards",1
-"theme5","Pediatric Growth & Nutrition","MA","Pharmacology","Funding",0.608114
+"theme5","Pediatric Growth & Nutrition","MA","Pharmacology","Awards",2
+"theme5","Pediatric Growth & Nutrition","MA","Pharmacology","Funding",1.780878
+"theme5","Pediatric Growth & Nutrition","MO","Pharmacology","Awards",1
+"theme5","Pediatric Growth & Nutrition","MO","Pharmacology","Funding",0.4235
 "theme5","Pediatric Growth & Nutrition","OH","Pharmacology","Awards",1
 "theme5","Pediatric Growth & Nutrition","OH","Pharmacology","Funding",0.677278
 "theme5","Pediatric Growth & Nutrition","OR","Pharmacology","Awards",2
@@ -2107,12 +2129,14 @@
 "theme5","Pregnancy & Perinatology","MI","Pharmacology","Funding",0.923958
 "theme5","Pregnancy & Perinatology","MN","Pharmacology","Awards",1
 "theme5","Pregnancy & Perinatology","MN","Pharmacology","Funding",0.547471
-"theme5","Pregnancy & Perinatology","MO","Pharmacology","Awards",1
-"theme5","Pregnancy & Perinatology","MO","Pharmacology","Funding",2.337729
-"theme5","Pregnancy & Perinatology","NC","Pharmacology","Awards",2
-"theme5","Pregnancy & Perinatology","NC","Pharmacology","Funding",0.764436
+"theme5","Pregnancy & Perinatology","MO","Pharmacology","Awards",2
+"theme5","Pregnancy & Perinatology","MO","Pharmacology","Funding",2.989088
+"theme5","Pregnancy & Perinatology","NC","Pharmacology","Awards",3
+"theme5","Pregnancy & Perinatology","NC","Pharmacology","Funding",1.590958
 "theme5","Pregnancy & Perinatology","NM","Pharmacology","Awards",1
 "theme5","Pregnancy & Perinatology","NM","Pharmacology","Funding",0.222694
+"theme5","Pregnancy & Perinatology","NY","Pharmacology","Awards",1
+"theme5","Pregnancy & Perinatology","NY","Pharmacology","Funding",0.72707
 "theme5","Pregnancy & Perinatology","OH","Pharmacology","Awards",4
 "theme5","Pregnancy & Perinatology","OH","Pharmacology","Funding",1.462739
 "theme5","Pregnancy & Perinatology","OK","Pharmacology","Awards",1
