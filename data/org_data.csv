@@ -1,8 +1,10 @@
 "org_name_clean","org_zip","organization_org_state","INTPTLAT","INTPTLONG","measure","amount"
 "Acumen, Llc","94010","CA",37.571918,-122.375028,"Awards",1
 "Acumen, Llc","94010","CA",37.571918,-122.375028,"Funding",0.377061
-"Albert Einstein College of Medicine","10461","NY",40.846741,-73.840788,"Awards",9
-"Albert Einstein College of Medicine","10461","NY",40.846741,-73.840788,"Funding",4.100569
+"Adelaide University","5000","ZZ",NA,NA,"Awards",1
+"Adelaide University","5000","ZZ",NA,NA,"Funding",0.295212
+"Albert Einstein College of Medicine","10461","NY",40.846741,-73.840788,"Awards",10
+"Albert Einstein College of Medicine","10461","NY",40.846741,-73.840788,"Funding",4.155683
 "Albert Einstein Healthcare Network","19141","PA",40.037921,-75.145377,"Awards",2
 "Albert Einstein Healthcare Network","19141","PA",40.037921,-75.145377,"Funding",1.00871
 "Amahealth Llc","85749","AZ",32.281851,-110.731649,"Awards",1
@@ -21,8 +23,8 @@
 "Arkansas Children's Hospital Res Inst","72202","AR",34.73813,-92.247251,"Funding",0.794652
 "Artemis Biotechnologies Llc","76502","TX",31.104022,-97.412045,"Awards",1
 "Artemis Biotechnologies Llc","76502","TX",31.104022,-97.412045,"Funding",0.385272
-"Auburn University at Auburn","36832","AL",32.582936,-85.585938,"Awards",2
-"Auburn University at Auburn","36832","AL",32.582936,-85.585938,"Funding",0.393408
+"Auburn University at Auburn","36832","AL",32.582936,-85.585938,"Awards",3
+"Auburn University at Auburn","36832","AL",32.582936,-85.585938,"Funding",0.816908
 "Augusta University","30912","GA",33.4702,-81.987917,"Awards",1
 "Augusta University","30912","GA",33.4702,-81.987917,"Funding",0.176331
 "Autoivf, Inc.","01760","MA",42.284822,-71.348811,"Awards",1
@@ -32,7 +34,7 @@
 "Barron Associates, Inc.","22901","VA",38.087705,-78.552744,"Awards",1
 "Barron Associates, Inc.","22901","VA",38.087705,-78.552744,"Funding",1.112943
 "Baylor College of Medicine","77030","TX",29.705557,-95.401754,"Awards",51
-"Baylor College of Medicine","77030","TX",29.705557,-95.401754,"Funding",25.784898
+"Baylor College of Medicine","77030","TX",29.705557,-95.401754,"Funding",25.787173
 "Baylor University","76798","TX",31.546107,-97.120959,"Awards",1
 "Baylor University","76798","TX",31.546107,-97.120959,"Funding",0.542102
 "Beth Israel Deaconess Medical Center","02215","MA",42.347635,-71.103082,"Awards",5
@@ -49,8 +51,8 @@
 "Boise State University","83725","ID",43.604822,-116.205619,"Funding",0.573021
 "Boston Children's Hospital","02115","MA",42.339422,-71.094531,"Awards",34
 "Boston Children's Hospital","02115","MA",42.339422,-71.094531,"Funding",17.537238
-"Boston College","02467","MA",42.314321,-71.152778,"Awards",1
-"Boston College","02467","MA",42.314321,-71.152778,"Funding",0.23475
+"Boston College","02467","MA",42.314321,-71.152778,"Awards",2
+"Boston College","02467","MA",42.314321,-71.152778,"Funding",0.569965
 "Boston Medical Center","02118","MA",42.33786,-71.069805,"Awards",2
 "Boston Medical Center","02118","MA",42.33786,-71.069805,"Funding",3.321982
 "Boston University","02118","MA",42.33786,-71.069805,"Awards",14
@@ -69,18 +71,18 @@
 "Briteseed, Llc","60625","IL",41.973081,-87.699751,"Funding",0.490469
 "Broad Institute, Inc.","02142","MA",42.362505,-71.08096,"Awards",4
 "Broad Institute, Inc.","02142","MA",42.362505,-71.08096,"Funding",12.591919
-"Brown University","02903","RI",41.819233,-71.410245,"Awards",11
-"Brown University","02903","RI",41.819233,-71.410245,"Funding",5.330529
+"Brown University","02903","RI",41.819233,-71.410245,"Awards",12
+"Brown University","02903","RI",41.819233,-71.410245,"Funding",5.625655
 "Burst Diagnostics Llc","80524","CO",40.646854,-105.029519,"Awards",1
 "Burst Diagnostics Llc","80524","CO",40.646854,-105.029519,"Funding",0.301299
 "Butler University","46208","IN",39.819071,-86.171083,"Awards",1
 "Butler University","46208","IN",39.819071,-86.171083,"Funding",0.516934
-"California Institute of Technology","91125","CA",34.137644,-118.124952,"Awards",5
-"California Institute of Technology","91125","CA",34.137644,-118.124952,"Funding",2.261865
+"California Institute of Technology","91125","CA",34.137644,-118.124952,"Awards",6
+"California Institute of Technology","91125","CA",34.137644,-118.124952,"Funding",2.311979
 "California Poly State U San Luis Obispo","93407","CA",35.306628,-120.669175,"Awards",1
 "California Poly State U San Luis Obispo","93407","CA",35.306628,-120.669175,"Funding",0.496036
-"Carnegie-Mellon University","15213","PA",40.435563,-79.964078,"Awards",3
-"Carnegie-Mellon University","15213","PA",40.435563,-79.964078,"Funding",2.137564
+"Carnegie-Mellon University","15213","PA",40.435563,-79.964078,"Awards",4
+"Carnegie-Mellon University","15213","PA",40.435563,-79.964078,"Funding",2.299137
 "Carroll University","53186","WI",43.022155,-88.204676,"Awards",1
 "Carroll University","53186","WI",43.022155,-88.204676,"Funding",0.34332
 "Case Western Reserve University","44106","OH",41.505341,-81.605432,"Awards",16
@@ -105,12 +107,12 @@
 "Children's Hospital of Los Angeles","90027","CA",34.127603,-118.296381,"Funding",4.264941
 "Children's Hospital of Orange County","92868","CA",33.787967,-117.876343,"Awards",2
 "Children's Hospital of Orange County","92868","CA",33.787967,-117.876343,"Funding",1.240701
-"Children's Mercy Hosp (Kansas City, Mo)","64108","MO",39.084895,-94.58647,"Awards",10
-"Children's Mercy Hosp (Kansas City, Mo)","64108","MO",39.084895,-94.58647,"Funding",3.814605
+"Children's Mercy Hosp (Kansas City, Mo)","64108","MO",39.084895,-94.58647,"Awards",11
+"Children's Mercy Hosp (Kansas City, Mo)","64108","MO",39.084895,-94.58647,"Funding",4.335796
 "Children's Research Institute","20010","DC",38.932825,-77.031798,"Awards",18
 "Children's Research Institute","20010","DC",38.932825,-77.031798,"Funding",9.809097
-"Cincinnati Childrens Hosp Med Ctr","45229","OH",39.153472,-84.486186,"Awards",44
-"Cincinnati Childrens Hosp Med Ctr","45229","OH",39.153472,-84.486186,"Funding",22.392538
+"Cincinnati Childrens Hosp Med Ctr","45229","OH",39.153472,-84.486186,"Awards",45
+"Cincinnati Childrens Hosp Med Ctr","45229","OH",39.153472,-84.486186,"Funding",22.71579
 "Claria Medical, Inc.","94043","CA",37.411913,-122.068919,"Awards",1
 "Claria Medical, Inc.","94043","CA",37.411913,-122.068919,"Funding",2.138797
 "Cleveland Clinic Lerner Com-Cwru","44195","OH",41.5031,-81.620567,"Awards",4
@@ -121,16 +123,16 @@
 "College of Staten Island","10314","NY",40.600699,-74.164314,"Funding",0.378123
 "College of William and Mary","23187","VA",37.27,-76.71,"Awards",2
 "College of William and Mary","23187","VA",37.27,-76.71,"Funding",0.885644
-"Colorado State University","80523","CO",40.570263,-105.090346,"Awards",12
-"Colorado State University","80523","CO",40.570263,-105.090346,"Funding",5.037135
+"Colorado State University","80523","CO",40.570263,-105.090346,"Awards",14
+"Colorado State University","80523","CO",40.570263,-105.090346,"Funding",7.072472
 "Columbia University","10027","NY",40.812657,-73.954983,"Awards",15
 "Columbia University","10027","NY",40.812657,-73.954983,"Funding",4.125555
-"Columbia University","10032","NY",40.839041,-73.942812,"Awards",45
-"Columbia University","10032","NY",40.839041,-73.942812,"Funding",21.256652
+"Columbia University","10032","NY",40.839041,-73.942812,"Awards",48
+"Columbia University","10032","NY",40.839041,-73.942812,"Funding",22.590734
 "Contraline, Inc.","22903","VA",38.006972,-78.59506,"Awards",1
 "Contraline, Inc.","22903","VA",38.006972,-78.59506,"Funding",1.077116
-"Cornell University","10065","NY",40.764689,-73.963264,"Awards",21
-"Cornell University","10065","NY",40.764689,-73.963264,"Funding",13.628856
+"Cornell University","10065","NY",40.764689,-73.963264,"Awards",23
+"Cornell University","10065","NY",40.764689,-73.963264,"Funding",14.965065
 "Cornell University","14850","NY",42.431831,-76.500228,"Awards",19
 "Cornell University","14850","NY",42.431831,-76.500228,"Funding",7.5564
 "Crosslife Technologies, Inc.","92008","CA",33.14248,-117.313444,"Awards",1
@@ -158,13 +160,13 @@
 "Drexel University","19104","PA",39.958518,-75.198856,"Awards",6
 "Drexel University","19104","PA",39.958518,-75.198856,"Funding",4.640816
 "Duke University","27705","NC",36.025112,-78.982067,"Awards",70
-"Duke University","27705","NC",36.025112,-78.982067,"Funding",30.712817
+"Duke University","27705","NC",36.025112,-78.982067,"Funding",30.598206
 "East Carolina University","27858","NC",35.532451,-77.282787,"Awards",1
 "East Carolina University","27858","NC",35.532451,-77.282787,"Funding",0.505226
 "Emma Pendleton Bradley Hospital","02915","RI",41.772177,-71.354407,"Awards",3
 "Emma Pendleton Bradley Hospital","02915","RI",41.772177,-71.354407,"Funding",0.834949
-"Emory University","30322","GA",33.794593,-84.325236,"Awards",44
-"Emory University","30322","GA",33.794593,-84.325236,"Funding",19.214853
+"Emory University","30322","GA",33.794593,-84.325236,"Awards",43
+"Emory University","30322","GA",33.794593,-84.325236,"Funding",19.162315
 "Endeavor Health Clinical Operations","60201","IL",42.054745,-87.692382,"Awards",2
 "Endeavor Health Clinical Operations","60201","IL",42.054745,-87.692382,"Funding",3.69496
 "Endomet Biosciences, Inc","92617","CA",33.641973,-117.841046,"Awards",1
@@ -189,8 +191,8 @@
 "Florida Institu /Human/Machine Cognition","32502","FL",30.408929,-87.226813,"Funding",0.131085
 "Florida International University","33199","FL",25.753898,-80.377044,"Awards",5
 "Florida International University","33199","FL",25.753898,-80.377044,"Funding",2.847043
-"Florida State University","32306","FL",30.442319,-84.294482,"Awards",5
-"Florida State University","32306","FL",30.442319,-84.294482,"Funding",13.199986
+"Florida State University","32306","FL",30.442319,-84.294482,"Awards",6
+"Florida State University","32306","FL",30.442319,-84.294482,"Funding",14.979715
 "Foundation For The Nih","20852","MD",39.051511,-77.123973,"Awards",2
 "Foundation For The Nih","20852","MD",39.051511,-77.123973,"Funding",1.625
 "Frd Accel, Llc","29425","SC",32.78527,-79.948392,"Awards",1
@@ -229,8 +231,8 @@
 "Harvard University","00-00","ZZ",NA,NA,"Funding",0.555945
 "Harvard University","02021","MA",42.175737,-71.125385,"Awards",9
 "Harvard University","02021","MA",42.175737,-71.125385,"Funding",5.965503
-"Harvard University","02115","MA",42.339422,-71.094531,"Awards",10
-"Harvard University","02115","MA",42.339422,-71.094531,"Funding",12.394791
+"Harvard University","02115","MA",42.339422,-71.094531,"Awards",9
+"Harvard University","02115","MA",42.339422,-71.094531,"Funding",12.037224
 "Harvard University","02120","MA",42.332134,-71.096606,"Awards",4
 "Harvard University","02120","MA",42.332134,-71.096606,"Funding",1.17705
 "Harvard University","02138","MA",42.379637,-71.135152,"Awards",9
@@ -251,18 +253,20 @@
 "Hospital For Sick Chldrn (Toronto)","M5G 1","ON",NA,NA,"Funding",0.477421
 "Hospital For Special Surgery","10021","NY",40.76964,-73.959018,"Awards",1
 "Hospital For Special Surgery","10021","NY",40.76964,-73.959018,"Funding",0.719791
+"Howard University","20059","DC",38.92246,-77.020042,"Awards",1
+"Howard University","20059","DC",38.92246,-77.020042,"Funding",0.1545
 "Hudson-Alpha Institute For Biotechnology","35806","AL",34.766424,-86.683594,"Awards",1
 "Hudson-Alpha Institute For Biotechnology","35806","AL",34.766424,-86.683594,"Funding",0.589008
 "Hugo W. Moser Res Inst Kennedy Krieger","21205","MD",39.30224,-76.564078,"Awards",5
 "Hugo W. Moser Res Inst Kennedy Krieger","21205","MD",39.30224,-76.564078,"Funding",4.890063
 "Ibis Reproductive Health","02140","MA",42.392157,-71.133996,"Awards",2
 "Ibis Reproductive Health","02140","MA",42.392157,-71.133996,"Funding",0.483619
-"Icahn School of Medicine at Mount Sinai","10029","NY",40.792249,-73.947333,"Awards",23
-"Icahn School of Medicine at Mount Sinai","10029","NY",40.792249,-73.947333,"Funding",10.507565
+"Icahn School of Medicine at Mount Sinai","10029","NY",40.792249,-73.947333,"Awards",24
+"Icahn School of Medicine at Mount Sinai","10029","NY",40.792249,-73.947333,"Funding",10.675464
 "Idaho State University","83209","ID",42.857816,-112.426196,"Awards",1
 "Idaho State University","83209","ID",42.857816,-112.426196,"Funding",0.415376
-"Indiana University","46202","IN",39.7841,-86.161616,"Awards",21
-"Indiana University","46202","IN",39.7841,-86.161616,"Funding",11.274299
+"Indiana University","46202","IN",39.7841,-86.161616,"Awards",22
+"Indiana University","46202","IN",39.7841,-86.161616,"Funding",11.415246
 "Indiana University","47401","IN",39.102302,-86.442812,"Awards",10
 "Indiana University","47401","IN",39.102302,-86.442812,"Funding",3.300761
 "Infinite Biomedical Technologies, Llc","21202","MD",39.297425,-76.607722,"Awards",1
@@ -271,6 +275,8 @@
 "Inherent Biosciences, Inc.","84109","UT",40.705812,-111.704544,"Funding",0.85466
 "Innovation Research and Training, Inc.","27713","NC",35.8828,-78.93499,"Awards",2
 "Innovation Research and Training, Inc.","27713","NC",35.8828,-78.93499,"Funding",0.747996
+"Inova Health Care Services","22031","VA",38.85892,-77.260273,"Awards",1
+"Inova Health Care Services","22031","VA",38.85892,-77.260273,"Funding",0.582131
 "Institute For Basic Res In Dev Disabil","12204","NY",42.691516,-73.733751,"Awards",1
 "Institute For Basic Res In Dev Disabil","12204","NY",42.691516,-73.733751,"Funding",0.623529
 "Institute For Systems Biology","98109","WA",47.630583,-122.345596,"Awards",1
@@ -285,8 +291,8 @@
 "J. David Gladstone Institutes","94158","CA",37.772534,-122.388384,"Funding",0.082348
 "Jackson Laboratory","04609","ME",44.39747,-68.263808,"Awards",8
 "Jackson Laboratory","04609","ME",44.39747,-68.263808,"Funding",5.377259
-"Johns Hopkins University","21218","MD",39.330107,-76.601451,"Awards",62
-"Johns Hopkins University","21218","MD",39.330107,-76.601451,"Funding",22.200755
+"Johns Hopkins University","21218","MD",39.330107,-76.601451,"Awards",65
+"Johns Hopkins University","21218","MD",39.330107,-76.601451,"Funding",22.9071
 "Joslin Diabetes Center","02215","MA",42.347635,-71.103082,"Awards",1
 "Joslin Diabetes Center","02215","MA",42.347635,-71.103082,"Funding",0.631027
 "Kaiser Foundation Research Institute","94612","CA",37.807709,-122.266857,"Awards",7
@@ -305,6 +311,8 @@
 "Leading Edge Pharmtox, Llc","27713","NC",35.8828,-78.93499,"Funding",0.0125
 "Lehigh University","18015","PA",40.587439,-75.366758,"Awards",2
 "Lehigh University","18015","PA",40.587439,-75.366758,"Funding",0.652774
+"Lieber Institute, Inc.","21205","MD",39.30224,-76.564078,"Awards",1
+"Lieber Institute, Inc.","21205","MD",39.30224,-76.564078,"Funding",1.460609
 "Little Room Innovations, Llc","48105","MI",42.327634,-83.696444,"Awards",2
 "Little Room Innovations, Llc","48105","MI",42.327634,-83.696444,"Funding",0.929071
 "Louisiana State University","70112","LA",29.95609,-90.07735,"Awards",1
@@ -326,7 +334,7 @@
 "Madorra, Inc.","97239","OR",45.489938,-122.690453,"Awards",1
 "Madorra, Inc.","97239","OR",45.489938,-122.690453,"Funding",0.485502
 "Magee-Women's Res Inst and Foundation","15213","PA",40.435563,-79.964078,"Awards",11
-"Magee-Women's Res Inst and Foundation","15213","PA",40.435563,-79.964078,"Funding",5.110327
+"Magee-Women's Res Inst and Foundation","15213","PA",40.435563,-79.964078,"Funding",4.883182
 "Mainehealth","04102","ME",43.654353,-70.297611,"Awards",1
 "Mainehealth","04102","ME",43.654353,-70.297611,"Funding",0.562524
 "Makerere University College of Health Sciences","7072","ZZ",NA,NA,"Awards",1
@@ -335,8 +343,8 @@
 "Marine Biological Laboratory","02543","MA",41.472422,-70.785049,"Funding",0.555465
 "Marquette University","53201","WI",43.03,-87.92,"Awards",3
 "Marquette University","53201","WI",43.03,-87.92,"Funding",1.430213
-"Massachusetts General Hospital","02114","MA",42.363651,-71.066888,"Awards",53
-"Massachusetts General Hospital","02114","MA",42.363651,-71.066888,"Funding",40.41868
+"Massachusetts General Hospital","02114","MA",42.363651,-71.066888,"Awards",54
+"Massachusetts General Hospital","02114","MA",42.363651,-71.066888,"Funding",40.88542
 "Massachusetts Institute of Technology","02142","MA",42.362505,-71.08096,"Awards",6
 "Massachusetts Institute of Technology","02142","MA",42.362505,-71.08096,"Funding",1.980177
 "Mayo Clinic  Jacksonville","32224","FL",30.269971,-81.460939,"Awards",1
@@ -347,8 +355,8 @@
 "Mbarara University/Science/ Technology","256","ZZ",NA,NA,"Funding",0.732894
 "Mclean Hospital","02478","MA",42.395317,-71.180284,"Awards",1
 "Mclean Hospital","02478","MA",42.395317,-71.180284,"Funding",0.103215
-"Medical College of Wisconsin","53226","WI",43.050631,-88.043161,"Awards",9
-"Medical College of Wisconsin","53226","WI",43.050631,-88.043161,"Funding",4.96625
+"Medical College of Wisconsin","53226","WI",43.050631,-88.043161,"Awards",10
+"Medical College of Wisconsin","53226","WI",43.050631,-88.043161,"Funding",5.589384
 "Medical Science & Computing, Llc","20852","MD",39.051511,-77.123973,"Awards",1
 "Medical Science & Computing, Llc","20852","MD",39.051511,-77.123973,"Funding",0.005
 "Meditrace Llc","32608","FL",29.584196,-82.398281,"Awards",1
@@ -399,8 +407,8 @@
 "New Mexico Inst of Mining & Technology","87801","NM",33.932613,-107.073841,"Funding",0.543878
 "New York State Psychiatric Institute","10032","NY",40.839041,-73.942812,"Awards",1
 "New York State Psychiatric Institute","10032","NY",40.839041,-73.942812,"Funding",0.758206
-"New York University","10012","NY",40.725625,-73.997936,"Awards",9
-"New York University","10012","NY",40.725625,-73.997936,"Funding",3.225256
+"New York University","10012","NY",40.725625,-73.997936,"Awards",10
+"New York University","10012","NY",40.725625,-73.997936,"Funding",3.254848
 "New York University","10016","NY",40.745182,-73.978053,"Awards",25
 "New York University","10016","NY",40.745182,-73.978053,"Funding",10.596548
 "Nextgenjane, Inc.","94609","CA",37.834816,-122.264195,"Awards",1
@@ -409,8 +417,8 @@
 "North Carolina State University Raleigh","27695","NC",35.785489,-78.67893,"Funding",3.741228
 "North Dakota State University","58108","ND",NA,NA,"Awards",1
 "North Dakota State University","58108","ND",NA,NA,"Funding",0.434929
-"Northeastern University","02115","MA",42.339422,-71.094531,"Awards",6
-"Northeastern University","02115","MA",42.339422,-71.094531,"Funding",1.823488
+"Northeastern University","02115","MA",42.339422,-71.094531,"Awards",7
+"Northeastern University","02115","MA",42.339422,-71.094531,"Funding",1.986352
 "Northern Arizona University","86011","AZ",35.189512,-111.654712,"Awards",3
 "Northern Arizona University","86011","AZ",35.189512,-111.654712,"Funding",0.688628
 "Northwestern University","60611","IL",41.894742,-87.615073,"Awards",41
@@ -483,10 +491,10 @@
 "Rehabilitation Institute of Chicago","60611","IL",41.894742,-87.615073,"Funding",9.583127
 "Reia, Llc","03768","NH",43.816634,-72.094295,"Awards",1
 "Reia, Llc","03768","NH",43.816634,-72.094295,"Funding",0.995757
-"Research Inst Nationwide Children's Hosp","43205","OH",39.957342,-82.962019,"Awards",12
-"Research Inst Nationwide Children's Hosp","43205","OH",39.957342,-82.962019,"Funding",6.998539
-"Research Triangle Institute","27709","NC",35.920066,-78.867067,"Awards",12
-"Research Triangle Institute","27709","NC",35.920066,-78.867067,"Funding",22.959977
+"Research Inst Nationwide Children's Hosp","43205","OH",39.957342,-82.962019,"Awards",13
+"Research Inst Nationwide Children's Hosp","43205","OH",39.957342,-82.962019,"Funding",7.558624
+"Research Triangle Institute","27709","NC",35.920066,-78.867067,"Awards",13
+"Research Triangle Institute","27709","NC",35.920066,-78.867067,"Funding",25.735468
 "Results Group","06033","CT",41.707463,-72.538932,"Awards",1
 "Results Group","06033","CT",41.707463,-72.538932,"Funding",0.305904
 "Rhode Island Hospital","02903","RI",41.819233,-71.410245,"Awards",2
@@ -552,7 +560,7 @@
 "St. Louis College of Pharmacy","63110","MO",38.625369,-90.266467,"Awards",1
 "St. Louis College of Pharmacy","63110","MO",38.625369,-90.266467,"Funding",0.695773
 "Stanford University","94305","CA",37.418256,-122.170871,"Awards",50
-"Stanford University","94305","CA",37.418256,-122.170871,"Funding",22.36855
+"Stanford University","94305","CA",37.418256,-122.170871,"Funding",23.436918
 "Starship Health Technologies","19034","PA",40.133515,-75.209509,"Awards",1
 "Starship Health Technologies","19034","PA",40.133515,-75.209509,"Funding",0.321341
 "State University of New York","11203","NY",40.649569,-73.934327,"Awards",1
@@ -633,20 +641,20 @@
 "University of California at Davis","95618","CA",38.543019,-121.690538,"Funding",15.991225
 "University of California, Merced","95343","CA",37.367044,-120.444405,"Awards",1
 "University of California, Merced","95343","CA",37.367044,-120.444405,"Funding",0.461457
-"University of California, San Diego","92093","CA",32.882118,-117.237083,"Awards",50
-"University of California, San Diego","92093","CA",32.882118,-117.237083,"Funding",22.367893
+"University of California, San Diego","92093","CA",32.882118,-117.237083,"Awards",51
+"University of California, San Diego","92093","CA",32.882118,-117.237083,"Funding",23.738299
 "University of California, San Francisco","94143","CA",37.764209,-122.457162,"Awards",74
 "University of California, San Francisco","94143","CA",37.764209,-122.457162,"Funding",27.690828
-"University of California-Irvine","92697","CA",33.649727,-117.849085,"Awards",23
-"University of California-Irvine","92697","CA",33.649727,-117.849085,"Funding",7.698765
+"University of California-Irvine","92697","CA",33.649727,-117.849085,"Awards",24
+"University of California-Irvine","92697","CA",33.649727,-117.849085,"Funding",7.866405
 "University of Central Florida","32826","FL",28.579663,-81.18864,"Awards",1
 "University of Central Florida","32826","FL",28.579663,-81.18864,"Funding",0.152
 "University of Chicago","60637","IL",41.782504,-87.602734,"Awards",11
 "University of Chicago","60637","IL",41.782504,-87.602734,"Funding",5.456973
 "University of Cincinnati","45221","OH",39.132351,-84.509717,"Awards",8
 "University of Cincinnati","45221","OH",39.132351,-84.509717,"Funding",3.945334
-"University of Colorado","80045","CO",39.746661,-104.837224,"Awards",58
-"University of Colorado","80045","CO",39.746661,-104.837224,"Funding",30.351217
+"University of Colorado","80045","CO",39.746661,-104.837224,"Awards",62
+"University of Colorado","80045","CO",39.746661,-104.837224,"Funding",31.885712
 "University of Colorado","80303","CO",39.973222,-105.209276,"Awards",10
 "University of Colorado","80303","CO",39.973222,-105.209276,"Funding",3.972048
 "University of Connecticut","06030","CT",41.732466,-72.807234,"Awards",4
@@ -669,8 +677,8 @@
 "University of Illinois","60612","IL",41.880511,-87.687867,"Funding",7.245092
 "University of Illinois","61820","IL",40.11212,-88.244315,"Awards",17
 "University of Illinois","61820","IL",40.11212,-88.244315,"Funding",8.836016
-"University of Iowa","52242","IA",41.662939,-91.54355,"Awards",14
-"University of Iowa","52242","IA",41.662939,-91.54355,"Funding",6.543967
+"University of Iowa","52242","IA",41.662939,-91.54355,"Awards",15
+"University of Iowa","52242","IA",41.662939,-91.54355,"Funding",6.773285
 "University of Kansas","66045","KS",38.954328,-95.261527,"Awards",5
 "University of Kansas","66045","KS",38.954328,-95.261527,"Funding",2.416466
 "University of Kansas","66160","KS",39.055816,-94.610055,"Awards",23
@@ -697,14 +705,14 @@
 "University of Melbourne","3010","ZZ",NA,NA,"Funding",0.56225
 "University of Memphis","38152","TN",35.118273,-89.93745,"Awards",1
 "University of Memphis","38152","TN",35.118273,-89.93745,"Funding",0.138455
-"University of Miami","33146","FL",25.72085,-80.272571,"Awards",7
-"University of Miami","33146","FL",25.72085,-80.272571,"Funding",14.045612
+"University of Miami","33146","FL",25.72085,-80.272571,"Awards",8
+"University of Miami","33146","FL",25.72085,-80.272571,"Funding",14.100726
 "University of Michigan","48108","MI",42.221695,-83.732282,"Awards",82
 "University of Michigan","48108","MI",42.221695,-83.732282,"Funding",44.898095
 "University of Michigan","48502","MI",43.014645,-83.689159,"Awards",1
 "University of Michigan","48502","MI",43.014645,-83.689159,"Funding",0.468
-"University of Minnesota","55455","MN",44.975487,-93.235337,"Awards",52
-"University of Minnesota","55455","MN",44.975487,-93.235337,"Funding",19.796863
+"University of Minnesota","55455","MN",44.975487,-93.235337,"Awards",53
+"University of Minnesota","55455","MN",44.975487,-93.235337,"Funding",20.335863
 "University of Mississippi","38677","MS",34.361968,-89.538578,"Awards",1
 "University of Mississippi","38677","MS",34.361968,-89.538578,"Funding",0.411969
 "University of Mississippi","39216","MS",32.335241,-90.161417,"Awards",2
@@ -723,14 +731,14 @@
 "University of Nebraska","68503","NE",40.824473,-96.673893,"Funding",1.209241
 "University of Nevada","89154","NV",36.109632,-115.142143,"Awards",2
 "University of Nevada","89154","NV",36.109632,-115.142143,"Funding",0.813346
-"University of Nevada","89557","NV",39.542443,-119.815919,"Awards",3
-"University of Nevada","89557","NV",39.542443,-119.815919,"Funding",0.499208
+"University of Nevada","89557","NV",39.542443,-119.815919,"Awards",4
+"University of Nevada","89557","NV",39.542443,-119.815919,"Funding",1.098928
 "University of New Mexico","87131","NM",35.09,-106.62,"Awards",2
 "University of New Mexico","87131","NM",35.09,-106.62,"Funding",0.543491
 "University of North Carolina","27402","NC",36.07,-79.95,"Awards",3
 "University of North Carolina","27402","NC",36.07,-79.95,"Funding",1.10527
-"University of North Carolina","27599","NC",35.904045,-79.052134,"Awards",60
-"University of North Carolina","27599","NC",35.904045,-79.052134,"Funding",24.565256
+"University of North Carolina","27599","NC",35.904045,-79.052134,"Awards",62
+"University of North Carolina","27599","NC",35.904045,-79.052134,"Funding",24.869627
 "University of North Carolina","28223","NC",35.308875,-80.732499,"Awards",1
 "University of North Carolina","28223","NC",35.308875,-80.732499,"Funding",0.584007
 "University of North Florida","32224","FL",30.269971,-81.460939,"Awards",1
@@ -745,20 +753,20 @@
 "University of Oklahoma Hlth Sciences Ctr","73104","OK",35.475123,-97.5038,"Funding",1.518634
 "University of Oregon","97403","OR",44.035412,-123.052413,"Awards",9
 "University of Oregon","97403","OR",44.035412,-123.052413,"Funding",1.892857
-"University of Pennsylvania","19104","PA",39.958518,-75.198856,"Awards",65
-"University of Pennsylvania","19104","PA",39.958518,-75.198856,"Funding",23.868633
+"University of Pennsylvania","19104","PA",39.958518,-75.198856,"Awards",66
+"University of Pennsylvania","19104","PA",39.958518,-75.198856,"Funding",23.918747
 "University of Pittsburgh at Pittsburgh","15213","PA",40.435563,-79.964078,"Awards",36
 "University of Pittsburgh at Pittsburgh","15213","PA",40.435563,-79.964078,"Funding",19.910261
 "University of Rochester","14611","NY",43.148316,-77.646987,"Awards",13
 "University of Rochester","14611","NY",43.148316,-77.646987,"Funding",7.243318
-"University of South Carolina","29208","SC",33.997515,-81.026796,"Awards",20
-"University of South Carolina","29208","SC",33.997515,-81.026796,"Funding",8.02413
+"University of South Carolina","29208","SC",33.997515,-81.026796,"Awards",23
+"University of South Carolina","29208","SC",33.997515,-81.026796,"Funding",9.170745
 "University of South Carolina","29407","SC",32.79893,-79.997803,"Awards",10
 "University of South Carolina","29407","SC",32.79893,-79.997803,"Funding",5.656768
 "University of South Florida","33612","FL",28.050827,-82.449573,"Awards",3
 "University of South Florida","33612","FL",28.050827,-82.449573,"Funding",0.656492
-"University of Southern California","90089","CA",34.021543,-118.285574,"Awards",28
-"University of Southern California","90089","CA",34.021543,-118.285574,"Funding",12.092642
+"University of Southern California","90089","CA",34.021543,-118.285574,"Awards",29
+"University of Southern California","90089","CA",34.021543,-118.285574,"Funding",12.359063
 "University of Southern Mississippi","39406","MS",31.328937,-89.335063,"Awards",2
 "University of Southern Mississippi","39406","MS",31.328937,-89.335063,"Funding",0.363797
 "University of Tennessee","37919","TN",35.914748,-84.000169,"Awards",2
@@ -776,19 +784,19 @@
 "University of Texas System","78229","TX",29.505502,-98.577033,"Awards",7
 "University of Texas System","78229","TX",29.505502,-98.577033,"Funding",3.293586
 "University of Texas System","78249","TX",29.568476,-98.614271,"Awards",2
-"University of Texas System","78249","TX",29.568476,-98.614271,"Funding",0.787213
-"University of Texas System","78712","TX",30.283916,-97.732937,"Awards",20
-"University of Texas System","78712","TX",30.283916,-97.732937,"Funding",7.21072
+"University of Texas System","78249","TX",29.568476,-98.614271,"Funding",0.833596
+"University of Texas System","78712","TX",30.283916,-97.732937,"Awards",21
+"University of Texas System","78712","TX",30.283916,-97.732937,"Funding",7.765688
 "University of Toledo","43606","OH",41.673136,-83.611414,"Awards",2
 "University of Toledo","43606","OH",41.673136,-83.611414,"Funding",0.604334
 "University of Toledo","43614","OH",41.60446,-83.627515,"Awards",1
 "University of Toledo","43614","OH",41.60446,-83.627515,"Funding",0.533137
 "University of Tx Md Anderson Can Ctr","77030","TX",29.705557,-95.401754,"Awards",5
 "University of Tx Md Anderson Can Ctr","77030","TX",29.705557,-95.401754,"Funding",1.792873
-"University of Utah","84112","UT",40.765254,-111.841362,"Awards",41
-"University of Utah","84112","UT",40.765254,-111.841362,"Funding",14.906245
-"University of Vermont & St Agric College","05405","VT",44.474157,-73.196366,"Awards",5
-"University of Vermont & St Agric College","05405","VT",44.474157,-73.196366,"Funding",1.790557
+"University of Utah","84112","UT",40.765254,-111.841362,"Awards",42
+"University of Utah","84112","UT",40.765254,-111.841362,"Funding",16.189349
+"University of Vermont & St Agric College","05405","VT",44.474157,-73.196366,"Awards",6
+"University of Vermont & St Agric College","05405","VT",44.474157,-73.196366,"Funding",1.945969
 "University of Virginia","22904","VA",38.035436,-78.511249,"Awards",19
 "University of Virginia","22904","VA",38.035436,-78.511249,"Funding",8.505141
 "University of Washington","98195","WA",47.653833,-122.308348,"Awards",75
@@ -801,8 +809,8 @@
 "University of Wyoming","82071","WY",41.312507,-105.585578,"Funding",0.7225
 "Utah State University","84322","UT",41.758224,-111.812556,"Awards",2
 "Utah State University","84322","UT",41.758224,-111.812556,"Funding",0.89588
-"Van Andel Research Institute","49503","MI",42.96212,-85.659394,"Awards",2
-"Van Andel Research Institute","49503","MI",42.96212,-85.659394,"Funding",0.548
+"Van Andel Research Institute","49503","MI",42.96212,-85.659394,"Awards",3
+"Van Andel Research Institute","49503","MI",42.96212,-85.659394,"Funding",0.788
 "Vanderbilt University","37203","TN",36.149775,-86.789146,"Awards",13
 "Vanderbilt University","37203","TN",36.149775,-86.789146,"Funding",5.94515
 "Vanderbilt University","37232","TN",36.141117,-86.802888,"Awards",14
@@ -825,8 +833,8 @@
 "Wake Forest University","27157","NC",36.090657,-80.271538,"Funding",2.197514
 "Washington State University","99164","WA",46.728721,-117.154274,"Awards",9
 "Washington State University","99164","WA",46.728721,-117.154274,"Funding",3.599249
-"Washington University","63130","MO",38.664917,-90.324904,"Awards",57
-"Washington University","63130","MO",38.664917,-90.324904,"Funding",26.903465
+"Washington University","63130","MO",38.664917,-90.324904,"Awards",58
+"Washington University","63130","MO",38.664917,-90.324904,"Funding",26.925065
 "Wayne State University","48202","MI",42.374597,-83.077652,"Awards",8
 "Wayne State University","48202","MI",42.374597,-83.077652,"Funding",3.460839
 "West Virginia University","26506","WV",39.646781,-79.970152,"Awards",2
@@ -846,7 +854,7 @@
 "Wright State University","45435","OH",39.781088,-84.063113,"Awards",1
 "Wright State University","45435","OH",39.781088,-84.063113,"Funding",0.172479
 "Yale University","06520","CT",41.306427,-72.931022,"Awards",60
-"Yale University","06520","CT",41.306427,-72.931022,"Funding",27.894878
+"Yale University","06520","CT",41.306427,-72.931022,"Funding",27.837537
 "Yaso Therapeutics Inc","75087","TX",32.948579,-96.442091,"Awards",1
 "Yaso Therapeutics Inc","75087","TX",32.948579,-96.442091,"Funding",0.545966
 "Yeshiva University","10033","NY",40.847476,-73.93551,"Awards",1

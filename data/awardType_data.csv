@@ -1,14 +1,14 @@
 "award_type_desc","organization_org_state","measure","amount"
-"1: New","AL","Awards",2
-"1: New","AL","Funding",1.904449
+"1: New","AL","Awards",3
+"1: New","AL","Funding",2.327949
 "1: New","AR","Awards",4
 "1: New","AR","Funding",2.575936
 "1: New","AZ","Awards",8
 "1: New","AZ","Funding",3.067622
-"1: New","CA","Awards",59
-"1: New","CA","Funding",24.936159
-"1: New","CO","Awards",28
-"1: New","CO","Funding",14.426425
+"1: New","CA","Awards",58
+"1: New","CA","Funding",24.894139
+"1: New","CO","Awards",29
+"1: New","CO","Funding",15.063153
 "1: New","CT","Awards",15
 "1: New","CT","Funding",8.507616
 "1: New","DC","Awards",7
@@ -35,8 +35,8 @@
 "1: New","KY","Funding",1.029906
 "1: New","LA","Awards",3
 "1: New","LA","Funding",0.625398
-"1: New","MA","Awards",62
-"1: New","MA","Funding",53.481225
+"1: New","MA","Awards",63
+"1: New","MA","Funding",53.753262
 "1: New","MD","Awards",26
 "1: New","MD","Funding",10.699175
 "1: New","MI","Awards",36
@@ -61,16 +61,16 @@
 "1: New","NJ","Funding",8.894655
 "1: New","NV","Awards",1
 "1: New","NV","Funding",0.153602
-"1: New","NY","Awards",40
-"1: New","NY","Funding",12.846583
+"1: New","NY","Awards",41
+"1: New","NY","Funding",12.901697
 "1: New","OH","Awards",28
 "1: New","OH","Funding",12.11904
 "1: New","OK","Awards",5
 "1: New","OK","Funding",1.961544
 "1: New","OR","Awards",11
 "1: New","OR","Funding",6.522185
-"1: New","PA","Awards",44
-"1: New","PA","Funding",19.699682
+"1: New","PA","Awards",45
+"1: New","PA","Funding",19.749796
 "1: New","RI","Awards",8
 "1: New","RI","Funding",2.603346
 "1: New","SC","Awards",8
@@ -93,14 +93,14 @@
 "1: New","WV","Funding",0.456
 "1: New","WY","Awards",1
 "1: New","WY","Funding",0.397375
-"1: New","ZZ","Awards",2
-"1: New","ZZ","Funding",0.668568
+"1: New","ZZ","Awards",3
+"1: New","ZZ","Funding",0.96378
 "2: Renewal","AZ","Awards",1
 "2: Renewal","AZ","Funding",1.019901
 "2: Renewal","CA","Awards",4
 "2: Renewal","CA","Funding",4.261571
-"2: Renewal","CO","Awards",1
-"2: Renewal","CO","Funding",0.39104
+"2: Renewal","CO","Awards",2
+"2: Renewal","CO","Funding",1.226297
 "2: Renewal","IL","Awards",2
 "2: Renewal","IL","Funding",2.550563
 "2: Renewal","IN","Awards",3
@@ -137,10 +137,10 @@
 "2: Renewal","WI","Funding",0.35971
 "3: Revision","AL","Awards",1
 "3: Revision","AL","Funding",1.837193
-"3: Revision","CA","Awards",28
-"3: Revision","CA","Funding",4.171389
-"3: Revision","CO","Awards",3
-"3: Revision","CO","Funding",1.611868
+"3: Revision","CA","Awards",29
+"3: Revision","CA","Funding",4.437234
+"3: Revision","CO","Awards",5
+"3: Revision","CO","Funding",2.34649
 "3: Revision","CT","Awards",5
 "3: Revision","CT","Funding",0.442554
 "3: Revision","DC","Awards",1
@@ -157,26 +157,26 @@
 "3: Revision","LA","Funding",2.655314
 "3: Revision","MA","Awards",25
 "3: Revision","MA","Funding",10.405301
-"3: Revision","MD","Awards",9
-"3: Revision","MD","Funding",1.953038
+"3: Revision","MD","Awards",10
+"3: Revision","MD","Funding",1.991918
 "3: Revision","ME","Awards",1
 "3: Revision","ME","Funding",0.152997
 "3: Revision","MI","Awards",5
 "3: Revision","MI","Funding",0.645162
 "3: Revision","MN","Awards",6
 "3: Revision","MN","Funding",0.671444
-"3: Revision","MO","Awards",8
-"3: Revision","MO","Funding",2.408671
-"3: Revision","NC","Awards",22
-"3: Revision","NC","Funding",11.112774
+"3: Revision","MO","Awards",9
+"3: Revision","MO","Funding",2.430271
+"3: Revision","NC","Awards",23
+"3: Revision","NC","Funding",11.120774
 "3: Revision","NH","Awards",1
 "3: Revision","NH","Funding",0.132292
 "3: Revision","NJ","Awards",5
 "3: Revision","NJ","Funding",0.229584
 "3: Revision","NV","Awards",1
 "3: Revision","NV","Funding",0.064365
-"3: Revision","NY","Awards",14
-"3: Revision","NY","Funding",2.910367
+"3: Revision","NY","Awards",15
+"3: Revision","NY","Funding",2.939959
 "3: Revision","OH","Awards",1
 "3: Revision","OH","Funding",0.730474
 "3: Revision","OR","Awards",4
@@ -185,8 +185,8 @@
 "3: Revision","PA","Funding",8.667954
 "3: Revision","RI","Awards",2
 "3: Revision","RI","Funding",0.382563
-"3: Revision","SC","Awards",4
-"3: Revision","SC","Funding",0.394562
+"3: Revision","SC","Awards",5
+"3: Revision","SC","Funding",0.480425
 "3: Revision","TN","Awards",2
 "3: Revision","TN","Funding",0.186973
 "3: Revision","TX","Awards",2
@@ -244,7 +244,7 @@
 "4: Extension","TN","Awards",1
 "4: Extension","TN","Funding",1.058625
 "4: Extension","TX","Awards",2
-"4: Extension","TX","Funding",0.994298
+"4: Extension","TX","Funding",1.040681
 "4: Extension","VA","Awards",1
 "4: Extension","VA","Funding",1.077116
 "4: Extension","WA","Awards",4
@@ -257,20 +257,20 @@
 "5: Continuation","AR","Funding",2.005074
 "5: Continuation","AZ","Awards",22
 "5: Continuation","AZ","Funding",11.734314
-"5: Continuation","CA","Awards",259
-"5: Continuation","CA","Funding",123.683962
-"5: Continuation","CO","Awards",46
-"5: Continuation","CO","Funding",21.94763
+"5: Continuation","CA","Awards",263
+"5: Continuation","CA","Funding",126.383086
+"5: Continuation","CO","Awards",48
+"5: Continuation","CO","Funding",23.310855
 "5: Continuation","CT","Awards",47
 "5: Continuation","CT","Funding",20.199513
-"5: Continuation","DC","Awards",25
-"5: Continuation","DC","Funding",25.932842
+"5: Continuation","DC","Awards",26
+"5: Continuation","DC","Funding",26.087342
 "5: Continuation","DE","Awards",6
 "5: Continuation","DE","Funding",1.85395
-"5: Continuation","FL","Awards",20
-"5: Continuation","FL","Funding",24.260104
-"5: Continuation","GA","Awards",47
-"5: Continuation","GA","Funding",18.385163
+"5: Continuation","FL","Awards",22
+"5: Continuation","FL","Funding",26.094947
+"5: Continuation","GA","Awards",46
+"5: Continuation","GA","Funding",18.332625
 "5: Continuation","HI","Awards",2
 "5: Continuation","HI","Funding",1.095833
 "5: Continuation","IA","Awards",13
@@ -279,32 +279,32 @@
 "5: Continuation","ID","Funding",0.573021
 "5: Continuation","IL","Awards",73
 "5: Continuation","IL","Funding",34.799566
-"5: Continuation","IN","Awards",28
-"5: Continuation","IN","Funding",12.559538
+"5: Continuation","IN","Awards",29
+"5: Continuation","IN","Funding",12.700485
 "5: Continuation","KS","Awards",22
 "5: Continuation","KS","Funding",8.893609
 "5: Continuation","KY","Awards",9
 "5: Continuation","KY","Funding",4.012898
 "5: Continuation","LA","Awards",10
 "5: Continuation","LA","Funding",6.801147
-"5: Continuation","MA","Awards",167
-"5: Continuation","MA","Funding",92.901001
+"5: Continuation","MA","Awards",168
+"5: Continuation","MA","Funding",93.236216
 "5: Continuation","MB","Awards",1
 "5: Continuation","MB","Funding",0.584243
-"5: Continuation","MD","Awards",71
-"5: Continuation","MD","Funding",37.411726
+"5: Continuation","MD","Awards",74
+"5: Continuation","MD","Funding",39.5398
 "5: Continuation","ME","Awards",6
 "5: Continuation","ME","Funding",2.326945
-"5: Continuation","MI","Awards",86
-"5: Continuation","MI","Funding",37.526249
-"5: Continuation","MN","Awards",45
-"5: Continuation","MN","Funding",23.954272
-"5: Continuation","MO","Awards",55
-"5: Continuation","MO","Funding",23.808858
+"5: Continuation","MI","Awards",87
+"5: Continuation","MI","Funding",37.766249
+"5: Continuation","MN","Awards",46
+"5: Continuation","MN","Funding",24.493272
+"5: Continuation","MO","Awards",56
+"5: Continuation","MO","Funding",24.330049
 "5: Continuation","MS","Awards",3
 "5: Continuation","MS","Funding",0.589532
-"5: Continuation","NC","Awards",109
-"5: Continuation","NC","Funding",62.040569
+"5: Continuation","NC","Awards",111
+"5: Continuation","NC","Funding",64.99782
 "5: Continuation","NE","Awards",6
 "5: Continuation","NE","Funding",3.59673
 "5: Continuation","NH","Awards",4
@@ -315,36 +315,36 @@
 "5: Continuation","NM","Funding",0.543491
 "5: Continuation","NV","Awards",3
 "5: Continuation","NV","Funding",1.094587
-"5: Continuation","NY","Awards",163
-"5: Continuation","NY","Funding",84.24385
-"5: Continuation","OH","Awards",83
-"5: Continuation","OH","Funding",40.797392
+"5: Continuation","NY","Awards",169
+"5: Continuation","NY","Funding",87.08204
+"5: Continuation","OH","Awards",85
+"5: Continuation","OH","Funding",41.680729
 "5: Continuation","OK","Awards",4
 "5: Continuation","OK","Funding",1.885209
 "5: Continuation","ON","Awards",1
 "5: Continuation","ON","Funding",0.477421
 "5: Continuation","OR","Awards",44
 "5: Continuation","OR","Funding",22.218544
-"5: Continuation","PA","Awards",148
-"5: Continuation","PA","Funding",74.308421
-"5: Continuation","RI","Awards",19
-"5: Continuation","RI","Funding",8.447098
-"5: Continuation","SC","Awards",19
-"5: Continuation","SC","Funding",7.842293
+"5: Continuation","PA","Awards",149
+"5: Continuation","PA","Funding",74.242849
+"5: Continuation","RI","Awards",20
+"5: Continuation","RI","Funding",8.742224
+"5: Continuation","SC","Awards",21
+"5: Continuation","SC","Funding",8.903045
 "5: Continuation","TN","Awards",20
 "5: Continuation","TN","Funding",10.353801
-"5: Continuation","TX","Awards",121
-"5: Continuation","TX","Funding",53.351604
-"5: Continuation","UT","Awards",35
-"5: Continuation","UT","Funding",13.744692
-"5: Continuation","VA","Awards",21
-"5: Continuation","VA","Funding",10.300733
-"5: Continuation","VT","Awards",4
-"5: Continuation","VT","Funding",1.354554
+"5: Continuation","TX","Awards",122
+"5: Continuation","TX","Funding",53.908847
+"5: Continuation","UT","Awards",36
+"5: Continuation","UT","Funding",15.027796
+"5: Continuation","VA","Awards",22
+"5: Continuation","VA","Funding",10.882864
+"5: Continuation","VT","Awards",5
+"5: Continuation","VT","Funding",1.509966
 "5: Continuation","WA","Awards",74
 "5: Continuation","WA","Funding",34.034651
-"5: Continuation","WI","Awards",47
-"5: Continuation","WI","Funding",21.37802
+"5: Continuation","WI","Awards",48
+"5: Continuation","WI","Funding",22.001154
 "5: Continuation","WV","Awards",1
 "5: Continuation","WV","Funding",0.15984
 "5: Continuation","WY","Awards",1
@@ -373,16 +373,18 @@
 "Not applicable","VA","Funding",0.727347
 "Not applicable","WA","Awards",1
 "Not applicable","WA","Funding",0.035622
-"Not applicable","ZZ","Awards",3
-"Not applicable","ZZ","Funding",1.239951
+"Not applicable","ZZ","Awards",4
+"Not applicable","ZZ","Funding",1.689951
 "Other","AZ","Awards",2
 "Other","AZ","Funding",0.875638
 "Other","CA","Awards",4
 "Other","CA","Funding",0.871426
 "Other","CT","Awards",2
-"Other","CT","Funding",0.333119
+"Other","CT","Funding",0.275778
 "Other","FL","Awards",1
 "Other","FL","Funding",0.440651
+"Other","IA","Awards",1
+"Other","IA","Funding",0.229318
 "Other","IL","Awards",2
 "Other","IL","Funding",0.439903
 "Other","MA","Awards",2
@@ -397,6 +399,8 @@
 "Other","NE","Funding",0.239086
 "Other","NM","Awards",1
 "Other","NM","Funding",0.543878
+"Other","NV","Awards",1
+"Other","NV","Funding",0.59972
 "Other","NY","Awards",2
 "Other","NY","Funding",0.671143
 "Other","OH","Awards",5
